@@ -1,0 +1,2152 @@
+In reviews
+Querying https://api.yelp.com/v3/businesses/78skfSH9rKr7p_E3MtwIxw/reviews ...
+Business Id: 78skfSH9rKr7p_E3MtwIxw
+Business Name: Kapnos Taverna
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'Pf7GDGb-n29Op04ZZm42mw',
+                    'rating': 5,
+                    'text': "I love this place. I'm not going to boycott this "
+                            'place because of indiscretion by the owner, nor '
+                            'do I condone it. The food is unbelievably too '
+                            'good to pass....',
+                    'time_created': '2018-10-17 13:00:47',
+                    'url': 'https://www.yelp.com/biz/kapnos-taverna-college-park?hrid=Pf7GDGb-n29Op04ZZm42mw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '6VytXlGLnQnXXCrhvT0AJw',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/ZXnfU3I5YYj91eKTW4P4tQ/o.jpg',
+                               'name': 'Libby F.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=6VytXlGLnQnXXCrhvT0AJw'}},
+                 {  'id': 'QXGJH8aaOC2sl-Kf9koMdw',
+                    'rating': 4,
+                    'text': 'This Greek/Mediterranean themed restaurant is '
+                            'located with "The Hotel" with an entrance from '
+                            "inside the hotel as well as outside.  There's a "
+                            'parking garage...',
+                    'time_created': '2018-10-16 12:02:51',
+                    'url': 'https://www.yelp.com/biz/kapnos-taverna-college-park?hrid=QXGJH8aaOC2sl-Kf9koMdw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'vQAM8ZNOl9mzScxdwSd1DA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/SjtMMO9bTy0zSmRWoErTYA/o.jpg',
+                               'name': 'Brent L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=vQAM8ZNOl9mzScxdwSd1DA'}},
+                 {  'id': 'yts5_9V8pqXmaMCZfdoUXg',
+                    'rating': 5,
+                    'text': 'I had the BEST meal of 2018 here yesterday!!!\n'
+                            '\n'
+                            'It was Sunday brunch and when I checked out the '
+                            "web site, it showed 8 mains and 4 sides. I've got "
+                            'to admit,...',
+                    'time_created': '2018-09-17 07:01:37',
+                    'url': 'https://www.yelp.com/biz/kapnos-taverna-college-park?hrid=yts5_9V8pqXmaMCZfdoUXg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'IY83XzLtkElfaX1rpJMoDA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/_GKUgqNFqaui0f3jEUpO1Q/o.jpg',
+                               'name': 'Mo O.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=IY83XzLtkElfaX1rpJMoDA'}}],
+   'total': 75}
+In reviews
+Querying https://api.yelp.com/v3/businesses/GRaA3YKV2bcQzPRE2h9gpA/reviews ...
+Business Id: GRaA3YKV2bcQzPRE2h9gpA
+Business Name: Fishnet
+{  'possible_languages': ['en', 'es'],
+   'reviews': [  {  'id': '2LEG6gaIVC2AfqrX3k3qyQ',
+                    'rating': 4,
+                    'text': 'I have been wanting to try this place for the '
+                            'longest time and I finally got the chance to. I '
+                            'was greeted by a friendly young lady at the cash '
+                            'register.\n'
+                            '\n'
+                            'I...',
+                    'time_created': '2018-08-27 15:09:13',
+                    'url': 'https://www.yelp.com/biz/fishnet-college-park?hrid=2LEG6gaIVC2AfqrX3k3qyQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '5NKWwcLWwpufOBglv5U04w',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/8tiXtfKivz1_QQRXOWPJVw/o.jpg',
+                               'name': 'Ronnie T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=5NKWwcLWwpufOBglv5U04w'}},
+                 {  'id': 'IAsVG_xmNeSBjLsK8qUlzw',
+                    'rating': 2,
+                    'text': "No. This is not a four star spot. It's just a "
+                            'regular hole in the wall fish fry spot with a '
+                            'limited menu and bland food and plates. Super '
+                            'meh. \n'
+                            '\n'
+                            'Bummer.',
+                    'time_created': '2018-10-31 17:19:58',
+                    'url': 'https://www.yelp.com/biz/fishnet-college-park?hrid=IAsVG_xmNeSBjLsK8qUlzw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '5Nt9MCR9lDVeMi0cP3vnFg',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/WUQbFnoU6p6Xx351s0ACng/o.jpg',
+                               'name': 'Robyn M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=5Nt9MCR9lDVeMi0cP3vnFg'}},
+                 {  'id': 'dRBxQ8aLweonP1ZZt3YtWg',
+                    'rating': 2,
+                    'text': 'Finding myself in the College Park area for the '
+                            'second of probably fifteen dozen times over the '
+                            'next few years, I was eager to get to know the '
+                            'local food...',
+                    'time_created': '2018-08-07 17:50:36',
+                    'url': 'https://www.yelp.com/biz/fishnet-college-park?hrid=dRBxQ8aLweonP1ZZt3YtWg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'C-xIeg65giF134BuQoGGFA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/ZF9A_4h9ZHhTRrrqF5Ho2Q/o.jpg',
+                               'name': 'Kevin P.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=C-xIeg65giF134BuQoGGFA'}}],
+   'total': 253}
+In reviews
+Querying https://api.yelp.com/v3/businesses/NzS3topSWepwNrVHB18Ouw/reviews ...
+Business Id: NzS3topSWepwNrVHB18Ouw
+Business Name: College Park Grill
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'Vs0a1O6UJAPLdTHYMWLrNQ',
+                    'rating': 4,
+                    'text': 'Top notch place right near UMD campus, especially '
+                            'if you are staying in a nearby hotel. (Locals, '
+                            'come here too!)\n'
+                            '\n'
+                            '4/5 as a food spot, 5/5 as a cocktail bar...',
+                    'time_created': '2018-09-14 05:30:49',
+                    'url': 'https://www.yelp.com/biz/college-park-grill-college-park?hrid=Vs0a1O6UJAPLdTHYMWLrNQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Coh7jYRgiGSQMhsF963ZhA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/mI2tgHKkCrgI1kZ4IngZeQ/o.jpg',
+                               'name': 'Stephanie J.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Coh7jYRgiGSQMhsF963ZhA'}},
+                 {  'id': 'A1HKkq_uHD_7g673aboSjA',
+                    'rating': 3,
+                    'text': 'I am slightly sad to do this, but unfortunately I '
+                            'am downgrading my previous four-star rating of '
+                            'College Park Grill to a three-star, based on my '
+                            'second...',
+                    'time_created': '2018-09-30 16:06:38',
+                    'url': 'https://www.yelp.com/biz/college-park-grill-college-park?hrid=A1HKkq_uHD_7g673aboSjA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '-Zokiguir5_XFOK-mCH6_Q',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/3oze0Aj0SwJy4WKqiD8qRQ/o.jpg',
+                               'name': 'Sherell F.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=-Zokiguir5_XFOK-mCH6_Q'}},
+                 {  'id': '2_IORS7h9MiH0q78eyBi9w',
+                    'rating': 5,
+                    'text': 'In the new CAMBRIA hotel just a few blocks from '
+                            "the University of Maryland campus. I've eaten "
+                            'here twice now-dinner both times. \n'
+                            'AMBIENCE: casual upscale....',
+                    'time_created': '2018-08-21 17:31:21',
+                    'url': 'https://www.yelp.com/biz/college-park-grill-college-park?hrid=2_IORS7h9MiH0q78eyBi9w&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'YRuE6_ymN45M3oDQtNtsEw',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/YeG2iS-9KBOei4HzzCvhIw/o.jpg',
+                               'name': 'Carolyn F.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=YRuE6_ymN45M3oDQtNtsEw'}}],
+   'total': 40}
+In reviews
+Querying https://api.yelp.com/v3/businesses/vDHEfvbVUe-SJDo9J2cVng/reviews ...
+Business Id: vDHEfvbVUe-SJDo9J2cVng
+Business Name: Milk & Honey Cafe
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'lLE22gPS3NWzpvLqo4Jojw',
+                    'rating': 5,
+                    'text': 'As always EXECELLENT FOOD! Finally was able to '
+                            'bring my dad here for his first time and he got '
+                            "the Chef Sammy's Award Winning 1/2 lb Shrimp & "
+                            'Grits. I...',
+                    'time_created': '2018-11-17 16:48:54',
+                    'url': 'https://www.yelp.com/biz/milk-and-honey-cafe-college-park?hrid=lLE22gPS3NWzpvLqo4Jojw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'CIuvwXoD5VLJOlNFmbUl6g',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/XBHzYGqK3FACrwLpm_6m-g/o.jpg',
+                               'name': 'Quil N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=CIuvwXoD5VLJOlNFmbUl6g'}},
+                 {  'id': 'BkrLK2K-_rOwQOSg9pbRqw',
+                    'rating': 4,
+                    'text': 'Four stars because the hype had me up in the '
+                            'morning and on time (early AF) for a brunch date. '
+                            'I read the reviews about the waits being '
+                            'ridiculous and they...',
+                    'time_created': '2018-11-19 12:24:28',
+                    'url': 'https://www.yelp.com/biz/milk-and-honey-cafe-college-park?hrid=BkrLK2K-_rOwQOSg9pbRqw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'sUfwsKEVkeReJec1xgjbLA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/jXV8swQKCldh3OJlOABG3w/o.jpg',
+                               'name': 'Cannaith T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=sUfwsKEVkeReJec1xgjbLA'}},
+                 {  'id': 'wcOC6MlKf1s5NY6zZHdTZw',
+                    'rating': 4,
+                    'text': 'Milk and Honey is absolutely amazing!\n'
+                            '\n'
+                            'My friends and I here one Sunday at 2pm. We got '
+                            'seated about 2:45 PM, and I was HANGRY by the '
+                            'time they called our...',
+                    'time_created': '2018-11-18 11:16:41',
+                    'url': 'https://www.yelp.com/biz/milk-and-honey-cafe-college-park?hrid=wcOC6MlKf1s5NY6zZHdTZw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'puO-Y_0suCivK_bbR9ANSA',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/zOG33TT8srOfnSxiWBPwIA/o.jpg',
+                               'name': 'Kelly H.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=puO-Y_0suCivK_bbR9ANSA'}}],
+   'total': 1457}
+In reviews
+Querying https://api.yelp.com/v3/businesses/jKdHQTadfPzPB8RK-6zhOA/reviews ...
+Business Id: jKdHQTadfPzPB8RK-6zhOA
+Business Name: Caribbean Cove
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'lXv1lhblj1K_2ZR6ZM2pVw',
+                    'rating': 5,
+                    'text': 'It was soft opening and I am very pleased. The '
+                            'ineapple Chicken and Vegan Platter was amazing. '
+                            'My friend and I enjoyed the food very much.\n'
+                            '\n'
+                            'Updated...',
+                    'time_created': '2018-11-15 17:23:42',
+                    'url': 'https://www.yelp.com/biz/caribbean-cove-college-park?hrid=lXv1lhblj1K_2ZR6ZM2pVw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'OMpzc-lqlcp0ptx5RLD6hQ',
+                               'image_url': None,
+                               'name': 'Megan Q.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=OMpzc-lqlcp0ptx5RLD6hQ'}},
+                 {  'id': 'cXxjg-e_zjfemNxGSWKc3A',
+                    'rating': 5,
+                    'text': 'Tried this place for the first time today. I got '
+                            'the vegetarian platter and my boyfriend got the '
+                            'jerk chicken and it was so flavorful! The veg '
+                            'entree had...',
+                    'time_created': '2018-11-16 11:17:49',
+                    'url': 'https://www.yelp.com/biz/caribbean-cove-college-park?hrid=cXxjg-e_zjfemNxGSWKc3A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'GtZRMyWdaQGfh7hsdTJkTw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/7sln_DGot99t_QafFt_0jg/o.jpg',
+                               'name': 'Olga R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=GtZRMyWdaQGfh7hsdTJkTw'}},
+                 {  'id': 'yTY6QcLK69eRKwoGI9bDig',
+                    'rating': 5,
+                    'text': "Love this place! Compared to others, it's my "
+                            'favorite Caribbean restaurant. Welcoming '
+                            'environment, clean, good food... overall I love '
+                            'it. \n'
+                            'The man running...',
+                    'time_created': '2018-11-10 09:58:34',
+                    'url': 'https://www.yelp.com/biz/caribbean-cove-college-park?hrid=yTY6QcLK69eRKwoGI9bDig&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '76dAmRH5Zh9O6aRIdiFPWw',
+                               'image_url': None,
+                               'name': 'Kayla T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=76dAmRH5Zh9O6aRIdiFPWw'}}],
+   'total': 5}
+In reviews
+Querying https://api.yelp.com/v3/businesses/EVDxjlko-gYlZB6M6h43cA/reviews ...
+Business Id: EVDxjlko-gYlZB6M6h43cA
+Business Name: Old Maryland Grill
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'rkLmWABfsNnsR8FuaBpdCQ',
+                    'rating': 4,
+                    'text': 'Good meal with the family.  Tried the pork '
+                            'shoulder and grits.  The pork was cooked '
+                            'perfectly and the grits were good too!  Also '
+                            'enjoyed the fish croquets....',
+                    'time_created': '2018-10-16 06:27:31',
+                    'url': 'https://www.yelp.com/biz/old-maryland-grill-college-park-2?hrid=rkLmWABfsNnsR8FuaBpdCQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'b0zgSrXBDq8hsamvmjqEqA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/s8GOxD4_gq1amtcA8gHtRA/o.jpg',
+                               'name': 'George C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=b0zgSrXBDq8hsamvmjqEqA'}},
+                 {  'id': 'U7ux-1EhBsf2AluMYxd36Q',
+                    'rating': 4,
+                    'text': "So, I started off with Franklin's Hefeweizen (a "
+                            'brewery right down the road) and all I can say is '
+                            'it was the best Hefe I have EVER had in my life.  '
+                            'This one...',
+                    'time_created': '2018-10-03 20:34:05',
+                    'url': 'https://www.yelp.com/biz/old-maryland-grill-college-park-2?hrid=U7ux-1EhBsf2AluMYxd36Q&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'vQAM8ZNOl9mzScxdwSd1DA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/SjtMMO9bTy0zSmRWoErTYA/o.jpg',
+                               'name': 'Brent L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=vQAM8ZNOl9mzScxdwSd1DA'}},
+                 {  'id': 'ix1yBBWv19xR06kiKlrBtg',
+                    'rating': 5,
+                    'text': 'This place has only gotten better with time.\n'
+                            '\n'
+                            'We went the first week it opened and were '
+                            'unimpressed. And hoped they would improve. They '
+                            'did. Dramatically...',
+                    'time_created': '2018-09-02 20:58:11',
+                    'url': 'https://www.yelp.com/biz/old-maryland-grill-college-park-2?hrid=ix1yBBWv19xR06kiKlrBtg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'eV7_-sPbbR93hgd6GJIe5Q',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/2HPAv9fk4yXsBIB83yH29Q/o.jpg',
+                               'name': 'Vee G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=eV7_-sPbbR93hgd6GJIe5Q'}}],
+   'total': 108}
+In reviews
+Querying https://api.yelp.com/v3/businesses/7X7Pz9TZ7ToCku9SE-toJw/reviews ...
+Business Id: 7X7Pz9TZ7ToCku9SE-toJw
+Business Name: Aroy Thai Restaurant
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'PwmOtZIIDSjN3Z09FGxQMA',
+                    'rating': 5,
+                    'text': 'We stopped at Aroy Thai on a game day visit to U '
+                            "of Maryland's campus. The food was so delicious "
+                            'and served quickly. Our waitress was kind and '
+                            'attentive. My...',
+                    'time_created': '2018-10-20 14:15:35',
+                    'url': 'https://www.yelp.com/biz/aroy-thai-restaurant-college-park?hrid=PwmOtZIIDSjN3Z09FGxQMA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'eTUyQI1h_oK5mXU3YwvNRQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/dU52ditCTDoG2EGAF1AqJg/o.jpg',
+                               'name': 'Rikki M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=eTUyQI1h_oK5mXU3YwvNRQ'}},
+                 {  'id': 'AZH3807ocEYfLDqZzH9-IQ',
+                    'rating': 3,
+                    'text': 'Though the quality is inconsistent, the food is '
+                            "actually really good. It's the only Thai "
+                            'restaurant I frequent in the area. With that '
+                            'being said, on...',
+                    'time_created': '2018-11-23 12:02:21',
+                    'url': 'https://www.yelp.com/biz/aroy-thai-restaurant-college-park?hrid=AZH3807ocEYfLDqZzH9-IQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ilIsZFgZbXNu3VkXVIBzBw',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/iBK1jZPSfvvq8llvuDmPsg/o.jpg',
+                               'name': 'Erica O.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ilIsZFgZbXNu3VkXVIBzBw'}},
+                 {  'id': 'vGhG3ZyA2o43zOoTT8fihQ',
+                    'rating': 5,
+                    'text': 'Amazing Thai food! The restaurant is small on the '
+                            'inside and seating filled up fast. Service was '
+                            'very quick and food came out hot! I had the Kee '
+                            'mao fried...',
+                    'time_created': '2018-10-13 18:03:17',
+                    'url': 'https://www.yelp.com/biz/aroy-thai-restaurant-college-park?hrid=vGhG3ZyA2o43zOoTT8fihQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'AJ9eZoJ9KLNBR0LxisJ4sg',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/gPJXpoJCpiIJ4Cf87uw6kA/o.jpg',
+                               'name': 'Sam M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=AJ9eZoJ9KLNBR0LxisJ4sg'}}],
+   'total': 206}
+In reviews
+Querying https://api.yelp.com/v3/businesses/W4IqD7ngnpBMCz3pmySTiw/reviews ...
+Business Id: W4IqD7ngnpBMCz3pmySTiw
+Business Name: The Board and Brew
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'kWAH08qo_K0tOZ1Eno6A1g',
+                    'rating': 5,
+                    'text': 'The Board and Brew offers fresh foods and amazing '
+                            'service!  It is clearly a well run, creative, '
+                            'fresh business! \n'
+                            '\n'
+                            'Highly recommend the Mediterranean salad!...',
+                    'time_created': '2018-09-03 13:43:09',
+                    'url': 'https://www.yelp.com/biz/the-board-and-brew-college-park-4?hrid=kWAH08qo_K0tOZ1Eno6A1g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'akO4YIRFvK4ijeCVdhJcYQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/RDWGln-C_Yp9nepS0brdeA/o.jpg',
+                               'name': 'Leah S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=akO4YIRFvK4ijeCVdhJcYQ'}},
+                 {  'id': 'MZdNU0QwgE1eRJSdQP2pkQ',
+                    'rating': 3,
+                    'text': "I've visited here a couple times and have enjoyed "
+                            'the food I ordered, but today I tried the Two '
+                            'Eggs platter and was very disappointed. It comes '
+                            'with either...',
+                    'time_created': '2018-09-08 09:55:36',
+                    'url': 'https://www.yelp.com/biz/the-board-and-brew-college-park-4?hrid=MZdNU0QwgE1eRJSdQP2pkQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Iuni1ULIKuCC9dKpkYU04Q',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/NPHiQy5w8gudswDxlIXBhA/o.jpg',
+                               'name': 'Victoria T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Iuni1ULIKuCC9dKpkYU04Q'}},
+                 {  'id': 'Hy-NmUM-1GlvgbzNO3SwWQ',
+                    'rating': 4,
+                    'text': "I've been meaning to come here for ages, but "
+                            'being car-free and living in DC, it took the '
+                            'request of a friend wanting to come play games '
+                            'and have dinner...',
+                    'time_created': '2018-08-27 08:59:13',
+                    'url': 'https://www.yelp.com/biz/the-board-and-brew-college-park-4?hrid=Hy-NmUM-1GlvgbzNO3SwWQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'YC1QMMIOwdqzxdYlZW9OeQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/AHcY60_t23UEMnIZNkR3oQ/o.jpg',
+                               'name': 'Derek W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=YC1QMMIOwdqzxdYlZW9OeQ'}}],
+   'total': 227}
+In reviews
+Querying https://api.yelp.com/v3/businesses/tHZ0mfl9MtrvN1i9r1srUA/reviews ...
+Business Id: tHZ0mfl9MtrvN1i9r1srUA
+Business Name: College Park Diner
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'l-d87Kr6Y9pkJUl7xYgbdw',
+                    'rating': 4,
+                    'text': 'First time here and I was impressed. The set up '
+                            'is like a traditional diner with bar seating and '
+                            'open kitchen which is good for me because I want '
+                            'to make...',
+                    'time_created': '2018-11-10 12:35:10',
+                    'url': 'https://www.yelp.com/biz/college-park-diner-college-park?hrid=l-d87Kr6Y9pkJUl7xYgbdw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '-JYzQ_EMBpSAV3Oc5ZQPmg',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/OkO-ADurFe-7KP6Vv6asWQ/o.jpg',
+                               'name': 'Truely T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=-JYzQ_EMBpSAV3Oc5ZQPmg'}},
+                 {  'id': 'xwnMi_XgNujP3Z3kDFP4yQ',
+                    'rating': 5,
+                    'text': 'First time here. \n'
+                            'After a long evening. I decided I needed food '
+                            'stopped by and ended up having French toast, '
+                            'corned beef hash and hash browns. \n'
+                            'I know a lot...',
+                    'time_created': '2018-11-09 11:04:20',
+                    'url': 'https://www.yelp.com/biz/college-park-diner-college-park?hrid=xwnMi_XgNujP3Z3kDFP4yQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '6vJYUEDIpuMCooj6nMSQJA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/rqntqrja9_FDb5Ji-aMWkw/o.jpg',
+                               'name': 'Brittany T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=6vJYUEDIpuMCooj6nMSQJA'}},
+                 {  'id': 'bOCilEqkYzU0IbQ9WinMzQ',
+                    'rating': 3,
+                    'text': 'One of those places that I will always go to when '
+                            "it's past midnight and I'm craving some breakfast "
+                            'food. I would pick this diner any day over '
+                            'IHOP,...',
+                    'time_created': '2018-10-13 18:23:21',
+                    'url': 'https://www.yelp.com/biz/college-park-diner-college-park?hrid=bOCilEqkYzU0IbQ9WinMzQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '6aKdTAwfWQFU0nc3l7qI8g',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/CnMPZFc-hUGWtxfQ006sjg/o.jpg',
+                               'name': 'Dawn E.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=6aKdTAwfWQFU0nc3l7qI8g'}}],
+   'total': 273}
+In reviews
+Querying https://api.yelp.com/v3/businesses/NsKGGkaHWj2VYOd6Wdhg4A/reviews ...
+Business Id: NsKGGkaHWj2VYOd6Wdhg4A
+Business Name: Poh-Yo Charcoal Chicken
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'ULOJY7HRN512ilCk3ao7MA',
+                    'rating': 5,
+                    'text': 'Got a half chicken with Cajun fries and yellow '
+                            'rice all for $10. It was really good and there '
+                            "was more than enough to eat. It's a good spot for "
+                            'anyone who...',
+                    'time_created': '2018-11-17 13:54:22',
+                    'url': 'https://www.yelp.com/biz/poh-yo-charcoal-chicken-college-park?hrid=ULOJY7HRN512ilCk3ao7MA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'zbwpumQIJC7AYb4x_2gkog',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/T4F0N4lv2XwvDxBx7m7cAg/o.jpg',
+                               'name': 'Hina A.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=zbwpumQIJC7AYb4x_2gkog'}},
+                 {  'id': 'Npgmm6VWMh4QIQdevkpBMw',
+                    'rating': 4,
+                    'text': 'I was in the UMD area picking up my sister and '
+                            'decided to swing by Poh-Yo to pick up some '
+                            'takeout for dinner. We got a whole chicken with '
+                            'four large sides...',
+                    'time_created': '2018-11-21 11:31:06',
+                    'url': 'https://www.yelp.com/biz/poh-yo-charcoal-chicken-college-park?hrid=Npgmm6VWMh4QIQdevkpBMw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'OSduhvMj-gFausB-iy4qSg',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/mGkqvGZbTceLb47D4GnAQQ/o.jpg',
+                               'name': 'Grace L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=OSduhvMj-gFausB-iy4qSg'}},
+                 {  'id': 'Bv_YxuuzkASHiG6tsxUljQ',
+                    'rating': 5,
+                    'text': 'Happened to be staying at a hotel in college park '
+                            'MD on a business trip to DC. I was looking for '
+                            'something different to eat in the area and I ran '
+                            'into poh...',
+                    'time_created': '2018-11-03 13:19:13',
+                    'url': 'https://www.yelp.com/biz/poh-yo-charcoal-chicken-college-park?hrid=Bv_YxuuzkASHiG6tsxUljQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'zmS0zKxOejPVYVv-ivTBGg',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/5JWlus6Ub_15FzqrFEYhDA/o.jpg',
+                               'name': 'Lucian E.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=zmS0zKxOejPVYVv-ivTBGg'}}],
+   'total': 50}
+In reviews
+Querying https://api.yelp.com/v3/businesses/7XjN0c0GPLlxAQt2PVEPzw/reviews ...
+Business Id: 7XjN0c0GPLlxAQt2PVEPzw
+Business Name: Nellys Cafe
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'YMV1IdLUXbLBnMg3qItjaw',
+                    'rating': 5,
+                    'text': 'I love this place! Food is great and so is the '
+                            "service! I don't speak Spanish well, but I tried "
+                            'my best and they were so helpful working with me '
+                            'lol.\n'
+                            '\n'
+                            'I go...',
+                    'time_created': '2018-09-14 07:30:56',
+                    'url': 'https://www.yelp.com/biz/nellys-cafe-college-park?hrid=YMV1IdLUXbLBnMg3qItjaw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'JuyD6jmlxHDJm1yPfxN86A',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/9a6q8ddkKj9y3cDr7luOqw/o.jpg',
+                               'name': 'Sydnie B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=JuyD6jmlxHDJm1yPfxN86A'}},
+                 {  'id': 'LtNWRVxyLvS-EXio6jCOrA',
+                    'rating': 4,
+                    'text': 'Hey now! This is a no-frills establishment but '
+                            'the food was very good and very cheap. \n'
+                            '\n'
+                            'We ordered 7 pupusas, maduros, carne asada, 2 '
+                            'chicken burritos, and...',
+                    'time_created': '2018-11-21 04:26:17',
+                    'url': 'https://www.yelp.com/biz/nellys-cafe-college-park?hrid=LtNWRVxyLvS-EXio6jCOrA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'PKRT0sPZnyMm-ALuEQ30dA',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/lO7fYuyL2Em8lWjc_cuV8w/o.jpg',
+                               'name': 'Linda B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=PKRT0sPZnyMm-ALuEQ30dA'}},
+                 {  'id': 'NVYhFvP-o7ApL2K2lVsAig',
+                    'rating': 2,
+                    'text': 'I have several issues with this place, although '
+                            'the food itself was good.\n'
+                            '\n'
+                            '1. There was a huge language barrier. None of the '
+                            'staff speak English so getting...',
+                    'time_created': '2018-07-25 20:38:10',
+                    'url': 'https://www.yelp.com/biz/nellys-cafe-college-park?hrid=NVYhFvP-o7ApL2K2lVsAig&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'N56peBtURGiV9g12TX1EjA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/11xMySIuy2UoSes1zJdDOg/o.jpg',
+                               'name': 'Maya G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=N56peBtURGiV9g12TX1EjA'}}],
+   'total': 43}
+In reviews
+Querying https://api.yelp.com/v3/businesses/Jjwhw-iyZqf9WFiaHDLkow/reviews ...
+Business Id: Jjwhw-iyZqf9WFiaHDLkow
+Business Name: Qu Japan
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'E1RHm84OdQmDT-BF4dCSQQ',
+                    'rating': 5,
+                    'text': "It's located at the college area so the flavor "
+                            'and price are prerry "college" and fair. You\'ll '
+                            'enjoy the embrace of what we call "youthfullness" '
+                            'here. \n'
+                            '\n'
+                            'The...',
+                    'time_created': '2018-11-14 17:50:55',
+                    'url': 'https://www.yelp.com/biz/qu-japan-college-park-2?hrid=E1RHm84OdQmDT-BF4dCSQQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'PKchVbMD1eZThPuj_EyTRA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/J487BpbBtM4fiDjzVu8LKA/o.jpg',
+                               'name': 'Ysera L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=PKchVbMD1eZThPuj_EyTRA'}},
+                 {  'id': 'CB70or3MmaS4cGSOpSDIsQ',
+                    'rating': 4,
+                    'text': 'Came here to eat lunch before catching a metro to '
+                            'DC. Surprised that one of these hibachi or ramen '
+                            'restaurants had finally made its way to Route 1 '
+                            'College...',
+                    'time_created': '2018-11-14 16:31:52',
+                    'url': 'https://www.yelp.com/biz/qu-japan-college-park-2?hrid=CB70or3MmaS4cGSOpSDIsQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '3JcNV0lGNwk4eQzVT1rF8Q',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/ldSs36cWmYuu2Gdk8-qlrg/o.jpg',
+                               'name': 'Han L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=3JcNV0lGNwk4eQzVT1rF8Q'}},
+                 {  'id': '0l4IVpqQyjghU3_-jPXTOw',
+                    'rating': 5,
+                    'text': 'Went here on a random Tuesday for lunch. The '
+                            'service was friendly, and all staffs were '
+                            'attentive and efficient. \n'
+                            '\n'
+                            'I had the spicy Qu Ramen which is...',
+                    'time_created': '2018-11-14 14:57:37',
+                    'url': 'https://www.yelp.com/biz/qu-japan-college-park-2?hrid=0l4IVpqQyjghU3_-jPXTOw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'VMtNKpzSDC8wBBlMh0YaHg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/G_Hk5vsO171avAIEsIszkg/o.jpg',
+                               'name': 'Leer Z.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=VMtNKpzSDC8wBBlMh0YaHg'}}],
+   'total': 21}
+In reviews
+Querying https://api.yelp.com/v3/businesses/XOGy2NVpKkoINMNG59VkDg/reviews ...
+Business Id: XOGy2NVpKkoINMNG59VkDg
+Business Name: Sardi's Pollo A La Brasa
+{  'possible_languages': ['en', 'es'],
+   'reviews': [  {  'id': 'nJCs_d-xc6Uzvo_pCuf94A',
+                    'rating': 5,
+                    'text': 'A very popular place. We have to stand in line to '
+                            'order our selection.   The signature dish is '
+                            'Peruvian Charbroiled Chicken as the name implied. '
+                            'It took us...',
+                    'time_created': '2018-10-20 17:47:54',
+                    'url': 'https://www.yelp.com/biz/sardis-pollo-a-la-brasa-beltsville-2?hrid=nJCs_d-xc6Uzvo_pCuf94A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MaRHn1fHEUO87NAuvFk5-w',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/-Ulk7noBCQYZLSsr_HaocA/o.jpg',
+                               'name': 'Philip Y.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MaRHn1fHEUO87NAuvFk5-w'}},
+                 {  'id': 'AyfTl_8G1WPhe62AmHC6eA',
+                    'rating': 5,
+                    'text': "I can't even express how fantastic this place is. "
+                            'After all the years it been open, the quality has '
+                            'never dwindled. I love taking people here when '
+                            'they come...',
+                    'time_created': '2018-10-17 12:25:08',
+                    'url': 'https://www.yelp.com/biz/sardis-pollo-a-la-brasa-beltsville-2?hrid=AyfTl_8G1WPhe62AmHC6eA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Cq1sw-nr9v9Rx_U5YL6WXQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/VcSAAdNn1dUgqsewNoBscQ/o.jpg',
+                               'name': 'Danielle O.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Cq1sw-nr9v9Rx_U5YL6WXQ'}},
+                 {  'id': 'VJ9pxyr8Tqp_kXa87mzbnQ',
+                    'rating': 3,
+                    'text': 'While staying in the area for business, I stopped '
+                            'in for dinner one weeknight.  First person I saw '
+                            "was the cashier at the front, she wasn't smiling "
+                            'and...',
+                    'time_created': '2018-07-11 17:44:23',
+                    'url': 'https://www.yelp.com/biz/sardis-pollo-a-la-brasa-beltsville-2?hrid=VJ9pxyr8Tqp_kXa87mzbnQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'yF5d7_UzvWroVju3rrrVtg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/xmtVoH1fJjmCbyN4CpBLVQ/o.jpg',
+                               'name': 'J E.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=yF5d7_UzvWroVju3rrrVtg'}}],
+   'total': 775}
+In reviews
+Querying https://api.yelp.com/v3/businesses/XEvLTGnZ_ZLI3CiPlzM2NA/reviews ...
+Business Id: XEvLTGnZ_ZLI3CiPlzM2NA
+Business Name: Franklin's
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'Sowqf00-HFxXe0Mbklwxew',
+                    'rating': 4,
+                    'text': 'Awesome! Pure awesomeness! Okay first, parking is '
+                            "paid, don't park and come in the restaurant like "
+                            'me. Oops. \n'
+                            '\n'
+                            "It's metered. If you're a city person I'm...",
+                    'time_created': '2018-10-13 14:36:16',
+                    'url': 'https://www.yelp.com/biz/franklins-hyattsville?hrid=Sowqf00-HFxXe0Mbklwxew&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'y-B7xypgVJd66YQAFqMY2g',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/iZ5_OfBKkZTp3JbaQ-b1gg/o.jpg',
+                               'name': 'Nessa R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=y-B7xypgVJd66YQAFqMY2g'}},
+                 {  'id': 'j3PztEQ1wiLnCIGNKR-yhA',
+                    'rating': 3,
+                    'text': 'My friend picked this spot to have our monthly '
+                            'Supper Club gathering.  I have passed this '
+                            'restaurant countless of times but never noticed '
+                            'it.  We visited...',
+                    'time_created': '2018-11-15 08:34:14',
+                    'url': 'https://www.yelp.com/biz/franklins-hyattsville?hrid=j3PztEQ1wiLnCIGNKR-yhA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'hVrtMGdso_eAaqv7svjDmg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/fZozRKZqfgrUoCbz20NUEQ/o.jpg',
+                               'name': 'Rashonda J.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=hVrtMGdso_eAaqv7svjDmg'}},
+                 {  'id': 'RRgJd7WQF363DT4I3FR46g',
+                    'rating': 4,
+                    'text': 'I had never heard of this brewery before, but '
+                            "when I had a pint of Franklin's Hefeweizen at "
+                            'another restaurant a few nights before, I had to '
+                            'seek this place...',
+                    'time_created': '2018-10-09 18:24:58',
+                    'url': 'https://www.yelp.com/biz/franklins-hyattsville?hrid=RRgJd7WQF363DT4I3FR46g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'vQAM8ZNOl9mzScxdwSd1DA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/SjtMMO9bTy0zSmRWoErTYA/o.jpg',
+                               'name': 'Brent L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=vQAM8ZNOl9mzScxdwSd1DA'}}],
+   'total': 595}
+In reviews
+Querying https://api.yelp.com/v3/businesses/8MObDyLiiMgzsx2TT_w92g/reviews ...
+Business Id: 8MObDyLiiMgzsx2TT_w92g
+Business Name: All Set Restaurant & Bar
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': '162VZrM0SyZm1znE_pEl7Q',
+                    'rating': 5,
+                    'text': 'I came here with a group of 5 other friends on a '
+                            'Sunday afternoon for brunch. We sat near the bar '
+                            'area, and overall the decor is very nice and '
+                            'nautical. Of...',
+                    'time_created': '2018-11-20 12:11:38',
+                    'url': 'https://www.yelp.com/biz/all-set-restaurant-and-bar-silver-spring?hrid=162VZrM0SyZm1znE_pEl7Q&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MCeUxLIOyGGCDFXwRAgikw',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/Z1EcAGazs7udE4CX3opp9g/o.jpg',
+                               'name': 'Sharon O.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MCeUxLIOyGGCDFXwRAgikw'}},
+                 {  'id': 'xKC8npoyBi0GAKeItC-GQg',
+                    'rating': 3,
+                    'text': "I've walked and driven past this place and always "
+                            'noted how nice it looked outside and in but '
+                            "didn't try it out for the first time until Sunday "
+                            'night. Upon...',
+                    'time_created': '2018-11-20 12:40:54',
+                    'url': 'https://www.yelp.com/biz/all-set-restaurant-and-bar-silver-spring?hrid=xKC8npoyBi0GAKeItC-GQg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '11lnSde5FZskt3Kn_3xU3g',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/w1XWFfPTEwkdCzTswDdbIg/o.jpg',
+                               'name': 'Ashleigh O.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=11lnSde5FZskt3Kn_3xU3g'}},
+                 {  'id': 'VXfe0tcCD_9D4DIYi8kDTg',
+                    'rating': 3,
+                    'text': "Go for the Happy Hour. It's affordable, delicious "
+                            'and offers interesting drink specials.\n'
+                            "Three stars is simply cause it's never really "
+                            'that fun. Staff and...',
+                    'time_created': '2018-11-19 10:22:23',
+                    'url': 'https://www.yelp.com/biz/all-set-restaurant-and-bar-silver-spring?hrid=VXfe0tcCD_9D4DIYi8kDTg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'hu8KRRiJdjhblAcRppsJPg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/oUU8e2NBUDzje3AXsyCQ5A/o.jpg',
+                               'name': 'Rebecca G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=hu8KRRiJdjhblAcRppsJPg'}}],
+   'total': 590}
+In reviews
+Querying https://api.yelp.com/v3/businesses/WsnrBFTAYz3oAD6LS3CWkg/reviews ...
+Business Id: WsnrBFTAYz3oAD6LS3CWkg
+Business Name: Mulligan's Grill and Pub
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'Yzcx9Rj9yazF4kxZnXgv2A',
+                    'rating': 3,
+                    'text': "Most UMD employees don't know about Mulligan's, "
+                            'but in fact it has such a nice ambiance '
+                            'overlooking the golf course and has better food '
+                            "than Adele's in my...",
+                    'time_created': '2017-12-20 13:58:07',
+                    'url': 'https://www.yelp.com/biz/mulligans-grill-and-pub-college-park?hrid=Yzcx9Rj9yazF4kxZnXgv2A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 't8-ckB6Ivufx08uvRtw96w',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/3AFP7Y17PP7NW88Uj9AQlg/o.jpg',
+                               'name': 'Nilsu G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=t8-ckB6Ivufx08uvRtw96w'}},
+                 {  'id': 'XwdYnH8cBTWxYvvsilnqUA',
+                    'rating': 1,
+                    'text': 'When I called to make a reservation for my friend '
+                            'and I, they were not very personable over the '
+                            'phone and seemed very distracted. Later, when I '
+                            'called to...',
+                    'time_created': '2017-12-15 13:54:53',
+                    'url': 'https://www.yelp.com/biz/mulligans-grill-and-pub-college-park?hrid=XwdYnH8cBTWxYvvsilnqUA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '2ldpENVgTSHdL3jRDT30dA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/1601XYzj-rS8keBw8qa3wA/o.jpg',
+                               'name': 'Caroline K.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=2ldpENVgTSHdL3jRDT30dA'}},
+                 {  'id': 'A3DwFD4rxKCS1UIqJQRmtA',
+                    'rating': 5,
+                    'text': 'Must try veggie quesadilla\n'
+                            'Very filling and comes with guacamole, sour cream '
+                            'as a side !!?',
+                    'time_created': '2016-01-09 09:29:01',
+                    'url': 'https://www.yelp.com/biz/mulligans-grill-and-pub-college-park?hrid=A3DwFD4rxKCS1UIqJQRmtA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ArWAzmH19yM7xaC3yc1kTg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/Oul9xQuU8EfqQEM0_lUpXQ/o.jpg',
+                               'name': 'Gautam J.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ArWAzmH19yM7xaC3yc1kTg'}}],
+   'total': 11}
+In reviews
+Querying https://api.yelp.com/v3/businesses/SsI5LpyP5KwDxYhLu123pQ/reviews ...
+Business Id: SsI5LpyP5KwDxYhLu123pQ
+Business Name: Burtons Grill & Bar of Riverdale
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'HiCz_b3rSiDHTomJNbPh7g',
+                    'rating': 5,
+                    'text': 'We live nearby and have come here more often than '
+                            "our wallets would really like, but it's just so "
+                            'amazing! \n'
+                            '\n'
+                            'The food is always fantastic, and my partner...',
+                    'time_created': '2018-11-08 09:09:15',
+                    'url': 'https://www.yelp.com/biz/burtons-grill-and-bar-of-riverdale-riverdale-park?hrid=HiCz_b3rSiDHTomJNbPh7g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Eg-uJxta0GLmOM_XSiUNZw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/x62SQIWkROBLPbY0Lpk9Dg/o.jpg',
+                               'name': 'Heather K.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Eg-uJxta0GLmOM_XSiUNZw'}},
+                 {  'id': 'puqzf_AQA2RXjDQlj0qgCA',
+                    'rating': 2,
+                    'text': 'The food here is fantastic. The restaurant is '
+                            'extremely conscientious about food allergies and '
+                            'sensitivities and different food restrictions. '
+                            "I'm giving 2...",
+                    'time_created': '2018-11-16 17:10:01',
+                    'url': 'https://www.yelp.com/biz/burtons-grill-and-bar-of-riverdale-riverdale-park?hrid=puqzf_AQA2RXjDQlj0qgCA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'wvbJbmGOBdNP5PpCXvS0Cw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/04AgLJOMHHDV0caXewbUTg/o.jpg',
+                               'name': 'Heather S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=wvbJbmGOBdNP5PpCXvS0Cw'}},
+                 {  'id': 'I4lJi4LFeT0edHpvkrm69g',
+                    'rating': 4,
+                    'text': "Burton's is part of a new contemporary shopping "
+                            'complex in College Park.  \n'
+                            '\n'
+                            'The ambiance is in sync with the modern vibe in '
+                            "Riverdale.  There's an...",
+                    'time_created': '2018-11-06 09:37:47',
+                    'url': 'https://www.yelp.com/biz/burtons-grill-and-bar-of-riverdale-riverdale-park?hrid=I4lJi4LFeT0edHpvkrm69g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'QGMX1H6WQTp-o8Qq3uO3dQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/4Pb91qyyvH5PKDdGXaXOkg/o.jpg',
+                               'name': 'William L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=QGMX1H6WQTp-o8Qq3uO3dQ'}}],
+   'total': 162}
+In reviews
+Querying https://api.yelp.com/v3/businesses/-b8N_HrKbq2g7OVphh62Nw/reviews ...
+Business Id: -b8N_HrKbq2g7OVphh62Nw
+Business Name: Mission BBQ
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'esN720rqMu3b8IPEuAPAww',
+                    'rating': 5,
+                    'text': 'This place is solid. \n'
+                            '\n'
+                            'The BBQ is good and all their sides are also '
+                            "excellent. I've tried everything on the menu, and "
+                            'I especially like the moist brisket,...',
+                    'time_created': '2018-11-16 08:00:34',
+                    'url': 'https://www.yelp.com/biz/mission-bbq-greenbelt?hrid=esN720rqMu3b8IPEuAPAww&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'bvWIZfEY0G6QcfsEBDmLWQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/J4hHIi1g-cnBRUuWL2Z7tg/o.jpg',
+                               'name': 'Tu Hui C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=bvWIZfEY0G6QcfsEBDmLWQ'}},
+                 {  'id': 'LWoPYCmy1Uu0hp8L6P1QKw',
+                    'rating': 5,
+                    'text': 'This was absolutely wonderful food.  I was told '
+                            'about by some friends of mine and they were not '
+                            'wrong.\n'
+                            '\n'
+                            'I had brisket and Mac and cheese and they were...',
+                    'time_created': '2018-09-13 16:39:29',
+                    'url': 'https://www.yelp.com/biz/mission-bbq-greenbelt?hrid=LWoPYCmy1Uu0hp8L6P1QKw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'NRbC9jhAlAY4D0HqsFIqDw',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/yB2y2nO27IlQVhabNLvSfw/o.jpg',
+                               'name': 'Justin R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=NRbC9jhAlAY4D0HqsFIqDw'}},
+                 {  'id': 'Esmu0VVQ86H593v4bDQPyA',
+                    'rating': 5,
+                    'text': 'I just ate here for the first time. The moment '
+                            "you walk in the door you're greeted with the "
+                            'amazing, delicious smell of the barbecue. Then I '
+                            'was cheerfully...',
+                    'time_created': '2018-08-05 11:01:50',
+                    'url': 'https://www.yelp.com/biz/mission-bbq-greenbelt?hrid=Esmu0VVQ86H593v4bDQPyA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'pe_kCM57zLWpB3nM8mPXKQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/If7BsMO_2hPBwLAp9npq5g/o.jpg',
+                               'name': 'Lisa C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=pe_kCM57zLWpB3nM8mPXKQ'}}],
+   'total': 210}
+In reviews
+Querying https://api.yelp.com/v3/businesses/qJJIvbYPOBIuyaTXdh1aOA/reviews ...
+Business Id: qJJIvbYPOBIuyaTXdh1aOA
+Business Name: Saburo Ramen
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'BOzy4NdYlnf9P5zm5_-jLA',
+                    'rating': 5,
+                    'text': 'Omg so yummy!\n'
+                            'The ramen is super flavorful. Will definitely be '
+                            'back!\n'
+                            'However, I think they mixed up my chicken for '
+                            'pork, but it still tasted delicious.',
+                    'time_created': '2018-11-13 17:06:11',
+                    'url': 'https://www.yelp.com/biz/saburo-ramen-college-park?hrid=BOzy4NdYlnf9P5zm5_-jLA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'K0HfT8ebOqtkM0ngpuOioQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/zY6OHv8Mf-d-4TPChzb3ZA/o.jpg',
+                               'name': 'Dyrian W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=K0HfT8ebOqtkM0ngpuOioQ'}},
+                 {  'id': 'PTyUx_G-raoDR1V5Nc09ig',
+                    'rating': 4,
+                    'text': "The ramen here is pretty decent. It's probably "
+                            "some of the best you'll get in college park. I "
+                            'tried the tonkotsu black, the chicken ramen, and '
+                            'the shoyu...',
+                    'time_created': '2018-11-03 16:29:19',
+                    'url': 'https://www.yelp.com/biz/saburo-ramen-college-park?hrid=PTyUx_G-raoDR1V5Nc09ig&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'H4E_ZtIO5PELYhkOg9Ib9w',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/CpWcHs7E63ogIVtxGTobEg/o.jpg',
+                               'name': 'Chris J.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=H4E_ZtIO5PELYhkOg9Ib9w'}},
+                 {  'id': 'h48OYwCdOGNkaMAf4CvQkw',
+                    'rating': 3,
+                    'text': 'This place has a sign said Kangnam BBQ, so if you '
+                            'are looking Saburo Raman there is none. The sign '
+                            'by the entrance did show Saburo (三郎)Ramen. \n'
+                            'They serve...',
+                    'time_created': '2018-10-21 10:10:47',
+                    'url': 'https://www.yelp.com/biz/saburo-ramen-college-park?hrid=h48OYwCdOGNkaMAf4CvQkw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MaRHn1fHEUO87NAuvFk5-w',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/-Ulk7noBCQYZLSsr_HaocA/o.jpg',
+                               'name': 'Philip Y.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MaRHn1fHEUO87NAuvFk5-w'}}],
+   'total': 42}
+In reviews
+Querying https://api.yelp.com/v3/businesses/0x67BxKiEkWO6OvLqQ7PUQ/reviews ...
+Business Id: 0x67BxKiEkWO6OvLqQ7PUQ
+Business Name: Gus's World Famous Fried Chicken
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'X1iIYpA8YseA2r2YIFMJ5w',
+                    'rating': 5,
+                    'text': "I'll be traveling to Nashville for a business "
+                            'trip soon and as I always do, I check out the '
+                            'local food scene to plan my culinary adventures.  '
+                            'I heard about...',
+                    'time_created': '2018-11-07 17:41:37',
+                    'url': 'https://www.yelp.com/biz/guss-world-famous-fried-chicken-greenbelt-2?hrid=X1iIYpA8YseA2r2YIFMJ5w&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'q3IpoFcS344yPFLx7KpOZQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/Z-qjzEHhLMJkDEgEc-7IdA/o.jpg',
+                               'name': 'Bryan W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=q3IpoFcS344yPFLx7KpOZQ'}},
+                 {  'id': 'Uw4JU4fO3ESOESri002urQ',
+                    'rating': 4,
+                    'text': "After hearing so much about Gus's & found out "
+                            'they had one in the College Park area decided to '
+                            'see what the hype is all about.  \n'
+                            '\n'
+                            'Friends have recommended...',
+                    'time_created': '2018-11-10 18:35:24',
+                    'url': 'https://www.yelp.com/biz/guss-world-famous-fried-chicken-greenbelt-2?hrid=Uw4JU4fO3ESOESri002urQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'yO64UOeRmaUId5ArgqBDSA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/B1XQe56_JiyORugbHZ9stg/o.jpg',
+                               'name': 'Dan A.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=yO64UOeRmaUId5ArgqBDSA'}},
+                 {  'id': '2G4jEtDjjQTIh5-TEO4UVg',
+                    'rating': 5,
+                    'text': 'I always think of Breaking Bad, and Gustavo and '
+                            'his Los Pollos Hermanos whenever I pass this '
+                            'place but ANYWAY. My friend and I went around 3pm '
+                            'on a...',
+                    'time_created': '2018-10-29 21:29:52',
+                    'url': 'https://www.yelp.com/biz/guss-world-famous-fried-chicken-greenbelt-2?hrid=2G4jEtDjjQTIh5-TEO4UVg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'j7_QFuW-GLGFu9cfoS-bfQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/cOmOBpLuvDJPXrhwzLsqTA/o.jpg',
+                               'name': 'Gina L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=j7_QFuW-GLGFu9cfoS-bfQ'}}],
+   'total': 314}
+In reviews
+Querying https://api.yelp.com/v3/businesses/lLV__joryD8_06Bf8268yQ/reviews ...
+Business Id: lLV__joryD8_06Bf8268yQ
+Business Name: Old Line Fine Wine, Spirits & Bistro
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': '62qNsWN5thKyCc5-fWSJTA',
+                    'rating': 5,
+                    'text': 'This hidden gem is phenomenal for both happy and '
+                            'brunch! The prices are LOW, especially for '
+                            'bottomless mimosas. The food is great - you get '
+                            'significant...',
+                    'time_created': '2018-11-17 11:10:34',
+                    'url': 'https://www.yelp.com/biz/old-line-fine-wine-spirits-and-bistro-beltsville?hrid=62qNsWN5thKyCc5-fWSJTA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '1AY_LPBlf-g99tBvTR-eGg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/WM7YyX54RJ4aGAcMFVE0VQ/o.jpg',
+                               'name': 'Amanpreet K.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=1AY_LPBlf-g99tBvTR-eGg'}},
+                 {  'id': 'JATDxa0_fkN8KvCcAwolnQ',
+                    'rating': 1,
+                    'text': 'Customer service nightmare, anyone? My group of '
+                            'seven came in for my going away lunch. One person '
+                            "working. She's the hostess, bartender, and "
+                            'server. When we...',
+                    'time_created': '2018-11-15 16:34:58',
+                    'url': 'https://www.yelp.com/biz/old-line-fine-wine-spirits-and-bistro-beltsville?hrid=JATDxa0_fkN8KvCcAwolnQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'a_DzZ8Wtwn7sFhMb7yxLFA',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/Udq0SUD5REMap9O3GdJDGw/o.jpg',
+                               'name': 'Brenda A.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=a_DzZ8Wtwn7sFhMb7yxLFA'}},
+                 {  'id': 'hK6tPSooJ5pv76hsfF8fFw',
+                    'rating': 5,
+                    'text': "I'm strictly here to rate the liquor store "
+                            'portion of this very large establishment. First '
+                            "off, if you're ever gonna buy an old Circuit City "
+                            'building,...',
+                    'time_created': '2018-11-09 14:36:08',
+                    'url': 'https://www.yelp.com/biz/old-line-fine-wine-spirits-and-bistro-beltsville?hrid=hK6tPSooJ5pv76hsfF8fFw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'wIU06BeLbtu4CvVAjiMk-Q',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/_rFfQllsWH2UXm0dWlAgbg/o.jpg',
+                               'name': 'Mike N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=wIU06BeLbtu4CvVAjiMk-Q'}}],
+   'total': 211}
+In reviews
+Querying https://api.yelp.com/v3/businesses/IM9SyBL-wLEVMJcErjIsYw/reviews ...
+Business Id: IM9SyBL-wLEVMJcErjIsYw
+Business Name: Pupuseria La Familiar
+{  'possible_languages': ['en', 'es'],
+   'reviews': [  {  'id': 'HsqkL6_xmHNO17EXafZdfQ',
+                    'rating': 5,
+                    'text': 'The place is just so comfortable and the food was '
+                            'amazing!   I just love their pupusas.  Just the '
+                            'best, good prices, friendly folks...what more '
+                            'could I ask for?',
+                    'time_created': '2018-10-24 04:20:57',
+                    'url': 'https://www.yelp.com/biz/pupuseria-la-familiar-college-park?hrid=HsqkL6_xmHNO17EXafZdfQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'nYs8UVuAvFSWBCUuwagyJQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/dL0AMT6eMpolJX16wrfTWQ/o.jpg',
+                               'name': 'Pete D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=nYs8UVuAvFSWBCUuwagyJQ'}},
+                 {  'id': 'UvKeNOlXVWCjOLkkUZJDGw',
+                    'rating': 1,
+                    'text': 'Food is horrible now. The pupusa are too thick '
+                            'and too dry and the chan juice tastes like '
+                            'medicine. Neither my husband and I finished our '
+                            'food. The pork is...',
+                    'time_created': '2018-10-20 09:04:29',
+                    'url': 'https://www.yelp.com/biz/pupuseria-la-familiar-college-park?hrid=UvKeNOlXVWCjOLkkUZJDGw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'i6sR3Lm-v8d8h9QMbspkQg',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/KqQ7axKZg7Aff-Fs23HmXQ/o.jpg',
+                               'name': 'Stephanie D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=i6sR3Lm-v8d8h9QMbspkQg'}},
+                 {  'id': 'tiI9IeD-aDQxJSPQGfN2hg',
+                    'rating': 5,
+                    'text': 'Food was delicious , waiters were friendly and '
+                            'checking on us regularly , good food , will be '
+                            'back again. I got the fajita plate which was a '
+                            'great portion...',
+                    'time_created': '2018-05-06 07:50:50',
+                    'url': 'https://www.yelp.com/biz/pupuseria-la-familiar-college-park?hrid=tiI9IeD-aDQxJSPQGfN2hg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'rT63DavSLHwV6zjESp0CqQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/uAbm-T_6Hy1KUla1DWZRDw/o.jpg',
+                               'name': 'Bryan R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=rT63DavSLHwV6zjESp0CqQ'}}],
+   'total': 110}
+In reviews
+Querying https://api.yelp.com/v3/businesses/298_2BlF7sqUMnEo8W7XLQ/reviews ...
+Business Id: 298_2BlF7sqUMnEo8W7XLQ
+Business Name: Marathon Deli
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'Gv3uFmIGgvGD4_2EMJB9yA',
+                    'rating': 5,
+                    'text': 'first time here - the wait was a little long. Had '
+                            'a steak and chesse combo and paid $12 and '
+                            'change.\n'
+                            '\n'
+                            'Delicious!',
+                    'time_created': '2018-10-19 14:18:45',
+                    'url': 'https://www.yelp.com/biz/marathon-deli-college-park?hrid=Gv3uFmIGgvGD4_2EMJB9yA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'VXZvRBWpnPMbQV1SECVedg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/xF8Kq_ZmZbNvIRuMqo4-Ew/o.jpg',
+                               'name': 'Tassia P.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=VXZvRBWpnPMbQV1SECVedg'}},
+                 {  'id': 'XZic3uVVctj0vJ5mqInZ4Q',
+                    'rating': 5,
+                    'text': 'Marathon is my number one place to go to in '
+                            'College Park. This hole-in-the-wall Mediterranean '
+                            "deli serves up the tastiest gyro I've ever had "
+                            'plus THOSE...',
+                    'time_created': '2018-08-06 18:09:54',
+                    'url': 'https://www.yelp.com/biz/marathon-deli-college-park?hrid=XZic3uVVctj0vJ5mqInZ4Q&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MiZ20z6m4HfFx_uY8gcu_A',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/9QnQ5Bv9AaSxzjB91u8EZw/o.jpg',
+                               'name': 'Trey M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MiZ20z6m4HfFx_uY8gcu_A'}},
+                 {  'id': 'xW_W_UCTftdM7JRtsE6NGw',
+                    'rating': 5,
+                    'text': "I can't believe I'm so late to this place! Like I "
+                            "asked some folks if they've ever ate here and "
+                            'they all have (except for me). I went to school '
+                            'at UMD and...',
+                    'time_created': '2018-06-27 05:33:17',
+                    'url': 'https://www.yelp.com/biz/marathon-deli-college-park?hrid=xW_W_UCTftdM7JRtsE6NGw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'pYrBPBKPilpIciVY5oeYeA',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/UdGJp2oQ6C3usN7YaHq46Q/o.jpg',
+                               'name': 'Donyiel C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=pYrBPBKPilpIciVY5oeYeA'}}],
+   'total': 281}
+In reviews
+Querying https://api.yelp.com/v3/businesses/-rDr-IggfcIXDUIf3V_8dg/reviews ...
+Business Id: -rDr-IggfcIXDUIf3V_8dg
+Business Name: Northwest Chinese Food
+{  'possible_languages': ['en', 'zh'],
+   'reviews': [  {  'id': 'A6B4ysELWnQo1n9DSPWjJg',
+                    'rating': 4,
+                    'text': 'This is a pretty authentic, noodle-heavy '
+                            "establishment - you won't find any kung pao, "
+                            'orange-flavored nonsense here.\n'
+                            '\n'
+                            'Appetizers:\n'
+                            'The rou jia mo has...',
+                    'time_created': '2018-09-29 19:52:04',
+                    'url': 'https://www.yelp.com/biz/northwest-chinese-food-college-park-3?hrid=A6B4ysELWnQo1n9DSPWjJg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'j7_QFuW-GLGFu9cfoS-bfQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/cOmOBpLuvDJPXrhwzLsqTA/o.jpg',
+                               'name': 'Gina L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=j7_QFuW-GLGFu9cfoS-bfQ'}},
+                 {  'id': 'Y0cY2Uca0gWxo28i7cY36w',
+                    'rating': 4,
+                    'text': 'This review is for Northwest Chinese Food @ Ten '
+                            'Asia (as there are several restaurants here). '
+                            'Came in recommended by a Chinese friend who also '
+                            'happens to be...',
+                    'time_created': '2018-09-07 11:17:03',
+                    'url': 'https://www.yelp.com/biz/northwest-chinese-food-college-park-3?hrid=Y0cY2Uca0gWxo28i7cY36w&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '13ZAPxr6DPkzK71_nGNi3w',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/lVIkzkJJQqdp3h2bG_0dhQ/o.jpg',
+                               'name': 'Carolina R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=13ZAPxr6DPkzK71_nGNi3w'}},
+                 {  'id': '7CVwKUzJE_BR-ACojuCP2w',
+                    'rating': 4,
+                    'text': 'When an older Euro guy walks into a Chinese '
+                            'restaurant and sees that most of the tables are '
+                            'occupied AND that all the other couples or small '
+                            'groups are...',
+                    'time_created': '2018-06-14 12:32:54',
+                    'url': 'https://www.yelp.com/biz/northwest-chinese-food-college-park-3?hrid=7CVwKUzJE_BR-ACojuCP2w&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'HPSfCu4Gk3mRQx4t_Xc_2Q',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/HuyDHutjLbtzMejKHDFulA/o.jpg',
+                               'name': 'Paul L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=HPSfCu4Gk3mRQx4t_Xc_2Q'}}],
+   'total': 129}
+In reviews
+Querying https://api.yelp.com/v3/businesses/Va861iiJDSQ5LrQSU3HlBw/reviews ...
+Business Id: Va861iiJDSQ5LrQSU3HlBw
+Business Name: Buena Vida
+{  'possible_languages': ['en', 'pt'],
+   'reviews': [  {  'id': '7TlfdvfNtRaGQPJcPRUVRA',
+                    'rating': 5,
+                    'text': 'This is my 3rd time at Buena Vida and each time '
+                            'the service has been on point. Tonight was no '
+                            'different from the others with our server Nunu. '
+                            'She was very...',
+                    'time_created': '2018-10-23 17:35:58',
+                    'url': 'https://www.yelp.com/biz/buena-vida-silver-spring?hrid=7TlfdvfNtRaGQPJcPRUVRA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Lc9aF2qjfISuauhVIk_MwQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/OQF_Q9rY5cInevUxI23VJQ/o.jpg',
+                               'name': 'Latoya G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Lc9aF2qjfISuauhVIk_MwQ'}},
+                 {  'id': 'nl3VIBxGU5sEQ1kCZSjPkg',
+                    'rating': 2,
+                    'text': 'Two concepts in one.  Upstairs is modern Mexican '
+                            'with small plates and taco plates.  Downstairs is '
+                            'more like a taqueria.  Downstairs feels like a '
+                            'Mexican...',
+                    'time_created': '2018-11-20 20:11:16',
+                    'url': 'https://www.yelp.com/biz/buena-vida-silver-spring?hrid=nl3VIBxGU5sEQ1kCZSjPkg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'AVHntMBUO4dehOXjWQ2nBA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/VRrJZsCO5ZwMd-H7Q0EdXA/o.jpg',
+                               'name': 'Ben S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=AVHntMBUO4dehOXjWQ2nBA'}},
+                 {  'id': '-9UN_xopnUBsQZ7-4SVjxw',
+                    'rating': 3,
+                    'text': 'Came here for the first time for Sunday brunch. '
+                            'Thought this place was a hole in a wall type of '
+                            'Mexican restaurant from the look out the '
+                            'exterior. Wow I was...',
+                    'time_created': '2018-11-15 18:31:59',
+                    'url': 'https://www.yelp.com/biz/buena-vida-silver-spring?hrid=-9UN_xopnUBsQZ7-4SVjxw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'qSBZBI_26IbVWdbknM3iMA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/ZFbjwmKKDVfKR5xL62gVhQ/o.jpg',
+                               'name': 'Kenny W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=qSBZBI_26IbVWdbknM3iMA'}}],
+   'total': 157}
+In reviews
+Querying https://api.yelp.com/v3/businesses/rrFDwVaxPNEhPN9LWh1u4Q/reviews ...
+Business Id: rrFDwVaxPNEhPN9LWh1u4Q
+Business Name: Yia Yia's Kitchen
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'wfV2uKgR-NbD8BoxMV6pog',
+                    'rating': 5,
+                    'text': "It's not always easy to find delicious vegan "
+                            "options when you're dining out but thankfully "
+                            "this is not the case at Yia Yia's Kitchen! I had "
+                            'the falafel...',
+                    'time_created': '2018-11-19 12:40:09',
+                    'url': 'https://www.yelp.com/biz/yia-yias-kitchen-beltsville-3?hrid=wfV2uKgR-NbD8BoxMV6pog&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'wtHdDuUxFGPiTvSdHBzeJQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/uRu5T6teLSFDCRLHka7Cxg/o.jpg',
+                               'name': 'Alicia B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=wtHdDuUxFGPiTvSdHBzeJQ'}},
+                 {  'id': 'IRVQrZ7uj8Ynw5PeKlM4PQ',
+                    'rating': 4,
+                    'text': "I don't know why but there never seems to be gyro "
+                            "around when I'm craving it.  I grew up in "
+                            'Beltsville so this is not far from me in '
+                            'Burtonsville but...',
+                    'time_created': '2018-10-27 11:31:29',
+                    'url': 'https://www.yelp.com/biz/yia-yias-kitchen-beltsville-3?hrid=IRVQrZ7uj8Ynw5PeKlM4PQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ovwXBx6ZwGWgRLJkrat-tQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/WQ--jqoXqC1d4AdztES4UA/o.jpg',
+                               'name': 'Maria K.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ovwXBx6ZwGWgRLJkrat-tQ'}},
+                 {  'id': '14I0Q3z5KNnBVN1FqAYWyg',
+                    'rating': 4,
+                    'text': 'Well-priced, classic Greek fare at this local '
+                            "spot off US-1. There's a dining room, but the "
+                            'ambiance is more take-out. Three vertical '
+                            'rotisseries show off...',
+                    'time_created': '2018-09-15 17:17:23',
+                    'url': 'https://www.yelp.com/biz/yia-yias-kitchen-beltsville-3?hrid=14I0Q3z5KNnBVN1FqAYWyg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'tw1cog0v0KLoQkvwM9kUYA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/PBTOTocV--nb2x74JRLI9g/o.jpg',
+                               'name': 'Omar S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=tw1cog0v0KLoQkvwM9kUYA'}}],
+   'total': 372}
+In reviews
+Querying https://api.yelp.com/v3/businesses/xNJsEyQLm-HkNtRkAc4-CA/reviews ...
+Business Id: xNJsEyQLm-HkNtRkAc4-CA
+Business Name: Hard Times Cafe
+{  'possible_languages': ['en', 'es'],
+   'reviews': [  {  'id': '4oLBl-puNzBc3aNg5AQdnQ',
+                    'rating': 4,
+                    'text': 'Clearly this was once an old saloon, as the '
+                            'booths are setup in this manner. We were quickly '
+                            'greeted at the door and quickly greeted at the '
+                            'table. Oscar is...',
+                    'time_created': '2018-09-23 07:28:19',
+                    'url': 'https://www.yelp.com/biz/hard-times-cafe-college-park?hrid=4oLBl-puNzBc3aNg5AQdnQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'X8TDMfrauatr4PBIcjfIHQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/gAouWngnAlJ6YLxn_s6mRQ/o.jpg',
+                               'name': 'Stephanie W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=X8TDMfrauatr4PBIcjfIHQ'}},
+                 {  'id': 'KYUNM1V9B8-KNCrGiZtvSQ',
+                    'rating': 4,
+                    'text': 'I happen to like the Hard Times Chain. This place '
+                            'is a great place to recover from IKEA. The food '
+                            'was great, the service was awesome and the prices '
+                            'were...',
+                    'time_created': '2018-07-05 14:24:43',
+                    'url': 'https://www.yelp.com/biz/hard-times-cafe-college-park?hrid=KYUNM1V9B8-KNCrGiZtvSQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'P_ElZXhyH5gW4sq_vFaFSg',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/SINvtxMBnvzsOhvD71haUQ/o.jpg',
+                               'name': 'Ray T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=P_ElZXhyH5gW4sq_vFaFSg'}},
+                 {  'id': 'mR5u6frwinAoIkAUVqP98A',
+                    'rating': 4,
+                    'text': 'This place surprisingly pretty good food.  They '
+                            'get your order in and out rather quick.  Chili '
+                            'are made from scratch.  Very fulfilling.  Will be '
+                            'back next...',
+                    'time_created': '2018-07-05 11:32:56',
+                    'url': 'https://www.yelp.com/biz/hard-times-cafe-college-park?hrid=mR5u6frwinAoIkAUVqP98A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '_SGrzFA_QRf-LaD8nL90fw',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/jRw9xeyCTL0Ocs6n_DFd1g/o.jpg',
+                               'name': 'Lil Birdie N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=_SGrzFA_QRf-LaD8nL90fw'}}],
+   'total': 166}
+In reviews
+Querying https://api.yelp.com/v3/businesses/qkOGi77TNpLWsHLGl-duZQ/reviews ...
+Business Id: qkOGi77TNpLWsHLGl-duZQ
+Business Name: Republic
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'neJsyK9F7xXaYG4VrBY53g',
+                    'rating': 4,
+                    'text': 'This was my first time. I ordered seafood '
+                            'dumplings, salad and two orders of oysters.  Also '
+                            'a sweet drink. My bill was $99.00. It was '
+                            'reasonable. I believe...',
+                    'time_created': '2018-11-10 16:38:26',
+                    'url': 'https://www.yelp.com/biz/republic-takoma-park-2?hrid=neJsyK9F7xXaYG4VrBY53g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ZOMhDRoEV10LEykz6ILt6A',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/xN0hXkBxZgqZv8tHa1IoTA/o.jpg',
+                               'name': 'Adriane M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ZOMhDRoEV10LEykz6ILt6A'}},
+                 {  'id': 'VoKKYv_CP7zAHYmQVp0Xaw',
+                    'rating': 4,
+                    'text': 'Great ambiance and appropriately priced food. \n'
+                            '\n'
+                            'The names of the drinks are the best. The Fascist '
+                            'Killer, among other clever titles, contributed to '
+                            'the menu...',
+                    'time_created': '2018-09-04 02:39:02',
+                    'url': 'https://www.yelp.com/biz/republic-takoma-park-2?hrid=VoKKYv_CP7zAHYmQVp0Xaw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'HLQ1vH94lRP0sVD-8aHdEQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/HCn8nxkzHGrk0Gz8VUYc4w/o.jpg',
+                               'name': 'Brittany L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=HLQ1vH94lRP0sVD-8aHdEQ'}},
+                 {  'id': 'K0wP5tdGtlmqEYkDWwFrtg',
+                    'rating': 3,
+                    'text': 'I have not been lucky with the service '
+                            'here(perhaps twice I was), though I keep going '
+                            'back. I enjoy the ambiance and the selection of '
+                            'delicious cocktails....',
+                    'time_created': '2018-08-25 08:31:01',
+                    'url': 'https://www.yelp.com/biz/republic-takoma-park-2?hrid=K0wP5tdGtlmqEYkDWwFrtg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'jzPqg6YRNku_KdS2H3F0OQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/vG7beDtkCOHD7ZcEcjb8Pw/o.jpg',
+                               'name': 'Njeri N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=jzPqg6YRNku_KdS2H3F0OQ'}}],
+   'total': 429}
+In reviews
+Querying https://api.yelp.com/v3/businesses/utWAbId4TrHref56pJsx7g/reviews ...
+Business Id: utWAbId4TrHref56pJsx7g
+Business Name: El Sapo
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'zRNBpXaNxRNZRsVSkWbxlA',
+                    'rating': 4,
+                    'text': 'Solid. Lively. Great service. Energetic. Good '
+                            'food.\n'
+                            '\n'
+                            "Went here for a happy hour. There's goes until "
+                            '7:30 which is a big +. There is bar seating and a '
+                            'bench...',
+                    'time_created': '2018-11-10 06:25:59',
+                    'url': 'https://www.yelp.com/biz/el-sapo-silver-spring-2?hrid=zRNBpXaNxRNZRsVSkWbxlA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ewGkBnTo2Zj-hcorNY7jzw',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/2Jd2C6AGmBiOBrLJTNXvAA/o.jpg',
+                               'name': 'Edidiong D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ewGkBnTo2Zj-hcorNY7jzw'}},
+                 {  'id': '4fGsXuJeZ-ggJCGkty5-oQ',
+                    'rating': 1,
+                    'text': 'My first racial profiling experience in a long '
+                            'time!!! People of color BEWARE. I went to this '
+                            'place last night and requested a table for four '
+                            'the place was...',
+                    'time_created': '2018-11-24 08:41:58',
+                    'url': 'https://www.yelp.com/biz/el-sapo-silver-spring-2?hrid=4fGsXuJeZ-ggJCGkty5-oQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'CTdFHbwhpiDIyht781d2Wg',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/Budld2OR76Dy_gYQz_fsDg/o.jpg',
+                               'name': 'Freddy T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=CTdFHbwhpiDIyht781d2Wg'}},
+                 {  'id': 'iVGUHLYTsRMhljU9OvsC_w',
+                    'rating': 1,
+                    'text': 'The slow service is understandable on a Friday '
+                            'evening at a fairly new DTSS location...the '
+                            'inordinate noise levels- loud enough my throat '
+                            'was sore from...',
+                    'time_created': '2018-11-23 15:53:03',
+                    'url': 'https://www.yelp.com/biz/el-sapo-silver-spring-2?hrid=iVGUHLYTsRMhljU9OvsC_w&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '9_Hu1sqj2IJ970R3fpmaYw',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/HvlIe5KOwLqOlx-F_McUvQ/o.jpg',
+                               'name': 'Lucy S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=9_Hu1sqj2IJ970R3fpmaYw'}}],
+   'total': 37}
+In reviews
+Querying https://api.yelp.com/v3/businesses/4EAHGaY2wbkQma_yTBhLiQ/reviews ...
+Business Id: 4EAHGaY2wbkQma_yTBhLiQ
+Business Name: Busboys and Poets - Hyattsville
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'E1bjnc-eDb2eabIeYWkweA',
+                    'rating': 4,
+                    'text': "I've been to this location plenty of times, each "
+                            "time I've had a pleasant experience. This is my "
+                            'first time doing a review.\n'
+                            '\n'
+                            'My friend and I came here on...',
+                    'time_created': '2018-11-12 12:07:48',
+                    'url': 'https://www.yelp.com/biz/busboys-and-poets-hyattsville-hyattsville-2?hrid=E1bjnc-eDb2eabIeYWkweA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '05MpsTohoxyAOOQY7SmGDw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/LmxJWPgijh3Nxw_wom_dsA/o.jpg',
+                               'name': 'Unique C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=05MpsTohoxyAOOQY7SmGDw'}},
+                 {  'id': 'rt0aCsaOQnNPkzkYO2yDhQ',
+                    'rating': 4,
+                    'text': "I went here for a Saturday birthday brunch.  I'm "
+                            'not sure how long the wait for a table was '
+                            'because the guest of honor already had a table '
+                            'but she said it...',
+                    'time_created': '2018-11-07 11:54:37',
+                    'url': 'https://www.yelp.com/biz/busboys-and-poets-hyattsville-hyattsville-2?hrid=rt0aCsaOQnNPkzkYO2yDhQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'aVrSJaDslznekXiWhlUNSA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/cRYsDQO_-X8tPN-GsEIJBg/o.jpg',
+                               'name': 'Yolanda M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=aVrSJaDslznekXiWhlUNSA'}},
+                 {  'id': 'vffPJdLltzMdhnIHXnmU7A',
+                    'rating': 5,
+                    'text': 'Food: I have come here twice. Once for brunch  '
+                            'and once for lunch. Both times the food has been '
+                            'excellent and I can honestly say they have a '
+                            'really really...',
+                    'time_created': '2018-10-26 20:45:12',
+                    'url': 'https://www.yelp.com/biz/busboys-and-poets-hyattsville-hyattsville-2?hrid=vffPJdLltzMdhnIHXnmU7A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'TsvLTkW2NreYZrVVx7nCnQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/mM9ecB5IRQkQqE0j6jdlUw/o.jpg',
+                               'name': 'Jerry Z.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=TsvLTkW2NreYZrVVx7nCnQ'}}],
+   'total': 975}
+In reviews
+Querying https://api.yelp.com/v3/businesses/TFzooMiqhZKceHYP3ATcqw/reviews ...
+Business Id: TFzooMiqhZKceHYP3ATcqw
+Business Name: Seoul Food DC
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'iDXviKPWJtbG4fYjmUVBHg',
+                    'rating': 5,
+                    'text': 'If I could give 10 stars, I totally would! I '
+                            'finally got a chance to go to their new location '
+                            'in Takoma Park. I absolutely LOVE their new '
+                            "space! It's like a...",
+                    'time_created': '2018-10-14 10:46:37',
+                    'url': 'https://www.yelp.com/biz/seoul-food-dc-takoma-park-2?hrid=iDXviKPWJtbG4fYjmUVBHg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'uOhDgcVNzxzxgH25rWzobA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/jNa6pvNn-XsOv_Rl-zF-vQ/o.jpg',
+                               'name': 'Priscilla T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=uOhDgcVNzxzxgH25rWzobA'}},
+                 {  'id': '65xpl92ZaXudP0gD46g_pg',
+                    'rating': 4,
+                    'text': 'I came here with a friend who lives nearby and '
+                            'loved it. The area reminds me a little bit of San '
+                            "Francisco; it's lively and there are lots of "
+                            'small shops...',
+                    'time_created': '2018-11-23 22:10:30',
+                    'url': 'https://www.yelp.com/biz/seoul-food-dc-takoma-park-2?hrid=65xpl92ZaXudP0gD46g_pg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'YazfFSYf0iesMBW06i4LhQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/-r9pQ2F17G-qKBINBRcDbQ/o.jpg',
+                               'name': 'Claire C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=YazfFSYf0iesMBW06i4LhQ'}},
+                 {  'id': 'wQH8dPyl4lARBNP9MbTxiw',
+                    'rating': 2,
+                    'text': 'The food here is fantastic; my favorite "modern" '
+                            'Korean in the city.  And for that I give it 5 '
+                            'stars. \n'
+                            '\n'
+                            'Unfortunately, the owners decided to cripple '
+                            'their...',
+                    'time_created': '2018-10-19 11:27:48',
+                    'url': 'https://www.yelp.com/biz/seoul-food-dc-takoma-park-2?hrid=wQH8dPyl4lARBNP9MbTxiw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '0iGp-lE-fJT4ELgsNVPsJA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/xjH7Vgjy5m-6r_ku_T0ETQ/o.jpg',
+                               'name': 'Lucas T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=0iGp-lE-fJT4ELgsNVPsJA'}}],
+   'total': 405}
+In reviews
+Querying https://api.yelp.com/v3/businesses/tRhgp6syOtfBJ6MVWfw_kw/reviews ...
+Business Id: tRhgp6syOtfBJ6MVWfw_kw
+Business Name: Kangnam BBQ Sports Bar & Grill
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'nsFfR_VJkC8KdljgpQI-hw',
+                    'rating': 4,
+                    'text': 'Good food. Huge portions. Friendly staff. '
+                            'Instaworthy. \n'
+                            '\n'
+                            "I've come to Kangnam a couple of times now to try "
+                            'new things! This time I came with a group of...',
+                    'time_created': '2018-11-12 22:04:30',
+                    'url': 'https://www.yelp.com/biz/kangnam-bbq-sports-bar-and-grill-college-park?hrid=nsFfR_VJkC8KdljgpQI-hw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'BOoT3HrU7GeRxKKosE2TzA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/RAbeJpB2Ml1fyZpI9v8V1A/o.jpg',
+                               'name': 'Van Anh N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=BOoT3HrU7GeRxKKosE2TzA'}},
+                 {  'id': 'f_rO4N2i6sBZSW4LhiYv5A',
+                    'rating': 1,
+                    'text': 'Found a roach in our dipping sauce....\n'
+                            '\n'
+                            'There is a also a server there that is all over '
+                            'the place that makes everyone uneasy. Be warned.',
+                    'time_created': '2018-10-10 19:33:07',
+                    'url': 'https://www.yelp.com/biz/kangnam-bbq-sports-bar-and-grill-college-park?hrid=f_rO4N2i6sBZSW4LhiYv5A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'bWfsjtaa4FjaHqtpsmtJlQ',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/lcaKoxbDu0zFfo_fO8wqsA/o.jpg',
+                               'name': 'Vincent R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=bWfsjtaa4FjaHqtpsmtJlQ'}},
+                 {  'id': 'LZW7L3C4prTb-IVZ_Iy0RQ',
+                    'rating': 5,
+                    'text': 'I love this place. The atmosphere is so unique '
+                            "and the food is absolutely great. It wasn't too "
+                            'busy on Sunday afternoon and my roommate and I '
+                            'went to have...',
+                    'time_created': '2018-08-06 18:14:10',
+                    'url': 'https://www.yelp.com/biz/kangnam-bbq-sports-bar-and-grill-college-park?hrid=LZW7L3C4prTb-IVZ_Iy0RQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MiZ20z6m4HfFx_uY8gcu_A',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/9QnQ5Bv9AaSxzjB91u8EZw/o.jpg',
+                               'name': 'Trey M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MiZ20z6m4HfFx_uY8gcu_A'}}],
+   'total': 259}
+In reviews
+Querying https://api.yelp.com/v3/businesses/5JECsF02-DMe38RHa9hS2w/reviews ...
+Business Id: 5JECsF02-DMe38RHa9hS2w
+Business Name: La Malinche
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'txWzjUUaEKbINZIosFBGOQ',
+                    'rating': 5,
+                    'text': 'How can I review the best bottomless brunch in '
+                            'Silver Spring!?\n'
+                            '\n'
+                            "It's delightful, booze fueled, fast service and "
+                            'the best tapas you will find for miles....',
+                    'time_created': '2018-11-19 10:24:11',
+                    'url': 'https://www.yelp.com/biz/la-malinche-silver-spring?hrid=txWzjUUaEKbINZIosFBGOQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'hu8KRRiJdjhblAcRppsJPg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/oUU8e2NBUDzje3AXsyCQ5A/o.jpg',
+                               'name': 'Rebecca G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=hu8KRRiJdjhblAcRppsJPg'}},
+                 {  'id': 'NCq8dFcR4GTotPD-mb7Ulw',
+                    'rating': 3,
+                    'text': "I'm not sure what I think of La Malinche. A "
+                            'friend suggested this brunch spot on a Sunday '
+                            'afternoon and based on reviews I was down. Once '
+                            'we arrived I...',
+                    'time_created': '2018-11-05 06:17:23',
+                    'url': 'https://www.yelp.com/biz/la-malinche-silver-spring?hrid=NCq8dFcR4GTotPD-mb7Ulw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'x-KbJFtUf9_1-J-UecJJ5g',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/KIBSNssRuk-K0w5YL1oFVw/o.jpg',
+                               'name': 'Rachel H.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=x-KbJFtUf9_1-J-UecJJ5g'}},
+                 {  'id': 'z-8MGqoN8pVhWlNEK1yqSA',
+                    'rating': 3,
+                    'text': 'I went here for a last minute brunch on a '
+                            "Saturday at noon. We didn't have a reservation & "
+                            'got a table easily for 2 people. \n'
+                            '\n'
+                            'The bottomless brunch for $35...',
+                    'time_created': '2018-10-28 06:35:09',
+                    'url': 'https://www.yelp.com/biz/la-malinche-silver-spring?hrid=z-8MGqoN8pVhWlNEK1yqSA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ur82bhDYvD6_PlndoUlLvg',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/pV4PK46HrV9vhk0eOxegvA/o.jpg',
+                               'name': 'Bianca F.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ur82bhDYvD6_PlndoUlLvg'}}],
+   'total': 443}
+In reviews
+Querying https://api.yelp.com/v3/businesses/UzygjQQQpbp2OxjCVxjP0A/reviews ...
+Business Id: UzygjQQQpbp2OxjCVxjP0A
+Business Name: Krazi Kebob
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'ICdZBO0Mit2nDcPpZ_5_mg',
+                    'rating': 5,
+                    'text': 'Krazi Kebob is what I get cravings for. The Naan '
+                            'wrapped burritos are just out of this world. The '
+                            'flavors are delicious. The customer service there '
+                            'is...',
+                    'time_created': '2018-11-13 18:11:29',
+                    'url': 'https://www.yelp.com/biz/krazi-kebob-college-park?hrid=ICdZBO0Mit2nDcPpZ_5_mg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'O1ZVl6wUChgJI6AoeNyFnQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/mP_HV8uaiChJ181CqlFRbA/o.jpg',
+                               'name': 'Shira L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=O1ZVl6wUChgJI6AoeNyFnQ'}},
+                 {  'id': 'baO9jzkbupSwjVpDfyFSmg',
+                    'rating': 5,
+                    'text': 'I have been eating here for years. It is '
+                            'basically an Indian chipotle, but better. The '
+                            'naan pizza is delicious. I love the naan burrito '
+                            'with all the spicy...',
+                    'time_created': '2018-04-21 14:14:46',
+                    'url': 'https://www.yelp.com/biz/krazi-kebob-college-park?hrid=baO9jzkbupSwjVpDfyFSmg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'ryeabUHhftZGbktiq-f9SA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/QM_3im0HedZ4oHqaXCjkgw/o.jpg',
+                               'name': 'Keven M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=ryeabUHhftZGbktiq-f9SA'}},
+                 {  'id': 'n7C_XnRpw0DIqF5_-MftpA',
+                    'rating': 1,
+                    'text': 'My food too had a hair in it. I had the rice and '
+                            "beans. Beans just didn't taste all that "
+                            'great--tasted heavy and there was no spiciness to '
+                            'them at all.',
+                    'time_created': '2018-10-05 09:33:11',
+                    'url': 'https://www.yelp.com/biz/krazi-kebob-college-park?hrid=n7C_XnRpw0DIqF5_-MftpA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '8htXtWMjDigjp95ZIFUsaQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/mR8RbgtvJiIS5RFmYfsvXQ/o.jpg',
+                               'name': 'Lady D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=8htXtWMjDigjp95ZIFUsaQ'}}],
+   'total': 212}
+In reviews
+Querying https://api.yelp.com/v3/businesses/qa3NxPFkedBH0UQw-K22eA/reviews ...
+Business Id: qa3NxPFkedBH0UQw-K22eA
+Business Name: Blaze Fast-Fire'd Pizza
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'zFBq8VHRF2V3zqn0-i4mfg',
+                    'rating': 5,
+                    'text': 'I got a thing for Blaze pizza!! The thin crust is '
+                            'my favorite part! I am such a wood fired pizza '
+                            "snob that I can't eat regular oven baked pizza...",
+                    'time_created': '2018-10-16 05:13:15',
+                    'url': 'https://www.yelp.com/biz/blaze-fast-fired-pizza-college-park-2?hrid=zFBq8VHRF2V3zqn0-i4mfg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'XEwEdPIjryudxfU098wapg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/-YpgILtVDgDuI60yw9OUWQ/o.jpg',
+                               'name': 'Charles M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=XEwEdPIjryudxfU098wapg'}},
+                 {  'id': 'F7vImLOtNnNfln79eQhNuQ',
+                    'rating': 2,
+                    'text': 'This is my second time eating here. The first '
+                            'time i really enjoyed the pizza but the employees '
+                            "didn't seem happy about taking our order. The "
+                            'young lady...',
+                    'time_created': '2018-10-14 18:54:37',
+                    'url': 'https://www.yelp.com/biz/blaze-fast-fired-pizza-college-park-2?hrid=F7vImLOtNnNfln79eQhNuQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'srUAU3iV0g62ZBogMI25Sw',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/jI1mkJN_Isx3R7geahfNzw/o.jpg',
+                               'name': 'Alisha R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=srUAU3iV0g62ZBogMI25Sw'}},
+                 {  'id': 'pQMHBcc5wZHSGwz9t97HLw',
+                    'rating': 4,
+                    'text': 'Delicious Pizza! You can choose a pizza with one '
+                            'or two toppings, one of the signature pizzas, or '
+                            'a build your own pizza. The signature pizzas and '
+                            'build...',
+                    'time_created': '2018-08-23 15:23:09',
+                    'url': 'https://www.yelp.com/biz/blaze-fast-fired-pizza-college-park-2?hrid=pQMHBcc5wZHSGwz9t97HLw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '4rpACV3YyV0_93lXFNRpgw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/3AJpzQd-bxJWJaGaP4wtDw/o.jpg',
+                               'name': 'Carmen M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=4rpACV3YyV0_93lXFNRpgw'}}],
+   'total': 189}
+In reviews
+Querying https://api.yelp.com/v3/businesses/J5ZT1M1eimsa2cwS-jMx8A/reviews ...
+Business Id: J5ZT1M1eimsa2cwS-jMx8A
+Business Name: Hanami Japanese Restaurant
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'rzVFVV7oW23JfuIS2f4naQ',
+                    'rating': 4,
+                    'text': 'Good and simple thai food... the staff doesnt '
+                            'understand english much but are still very '
+                            'sweet...i m not a big fan of thai food but the '
+                            'veg sushi and the...',
+                    'time_created': '2018-06-20 15:10:14',
+                    'url': 'https://www.yelp.com/biz/hanami-japanese-restaurant-college-park?hrid=rzVFVV7oW23JfuIS2f4naQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'nmimQExSi6j5_fM9BbyiWw',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/XuGooSqNc0d0r7PhXJZIwA/o.jpg',
+                               'name': 'Neil N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=nmimQExSi6j5_fM9BbyiWw'}},
+                 {  'id': 'SdFJY975lCP0s7Np9gAy0A',
+                    'rating': 3,
+                    'text': 'Good food at a fair price, a super solid place to '
+                            'eat. \n'
+                            '\n'
+                            'The 3 of us had a good solid meal for roughly $20 '
+                            'per person all in (tip, wine, soup, entree)...',
+                    'time_created': '2018-11-13 13:10:09',
+                    'url': 'https://www.yelp.com/biz/hanami-japanese-restaurant-college-park?hrid=SdFJY975lCP0s7Np9gAy0A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Q8upmCuIIft6OPIYVBjkCg',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/E6M07ABx6KZYS1qbYRCplA/o.jpg',
+                               'name': 'Mike D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Q8upmCuIIft6OPIYVBjkCg'}},
+                 {  'id': 'rnUYM6_NyUPl_wB0hazhcQ',
+                    'rating': 1,
+                    'text': "UPDATE: if you read the owner's comment on my "
+                            "review, trying to tell me if I'm looking for a "
+                            'cheap evening, she is mistaken. I will pay over '
+                            '$20 for a...',
+                    'time_created': '2018-11-07 16:54:05',
+                    'url': 'https://www.yelp.com/biz/hanami-japanese-restaurant-college-park?hrid=rnUYM6_NyUPl_wB0hazhcQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'g1KQ4aR2j3F0UtkR7OyIKw',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/6HqG-Dy_0MsXTBNJ5Y9n3w/o.jpg',
+                               'name': 'Catherine C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=g1KQ4aR2j3F0UtkR7OyIKw'}}],
+   'total': 204}
+In reviews
+Querying https://api.yelp.com/v3/businesses/LwSQMdebYZk69uB2aQmSRA/reviews ...
+Business Id: LwSQMdebYZk69uB2aQmSRA
+Business Name: Trinity Grill & Bar
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'h9YaQOYOsdWZNqQto50XXA',
+                    'rating': 5,
+                    'text': 'First time here and we loved it!!! Hidden gem in '
+                            'Hyattsville. I had the mambo wings to start and '
+                            'they were great. The table also ordered the lemon '
+                            'pepper...',
+                    'time_created': '2018-11-17 13:20:25',
+                    'url': 'https://www.yelp.com/biz/trinity-grill-and-bar-hyattsville?hrid=h9YaQOYOsdWZNqQto50XXA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'cLzTSVnwyFY4O1hFFg6o8Q',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/wEISaimFhPfXCJkWiH89Fg/o.jpg',
+                               'name': 'Moriah C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=cLzTSVnwyFY4O1hFFg6o8Q'}},
+                 {  'id': 'd_yrX4OQgrr6-2vn0I4sjQ',
+                    'rating': 4,
+                    'text': 'Okay i was driving by and decided to give this '
+                            'joint a try.\n'
+                            'This is a hidden  gem.\n'
+                            'Cleannnnnnnnnnnn 9/10\n'
+                            'I had very berry lemon drop,chicken egg roll '
+                            'and...',
+                    'time_created': '2018-09-17 16:55:42',
+                    'url': 'https://www.yelp.com/biz/trinity-grill-and-bar-hyattsville?hrid=d_yrX4OQgrr6-2vn0I4sjQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '7KmOx0khF4vlwGUH4b7r-w',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/We6L7_jrHxFR5eVJhVAAoQ/o.jpg',
+                               'name': 'Tee S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=7KmOx0khF4vlwGUH4b7r-w'}},
+                 {  'id': '6CS2-Fh96tcaLX2v-R8pEQ',
+                    'rating': 5,
+                    'text': "I'm kind of late with this review, but I attended "
+                            'this establishment to go see my nephew who had a '
+                            'paint party. I never knew this place existed, but '
+                            'it was...',
+                    'time_created': '2018-09-14 15:46:51',
+                    'url': 'https://www.yelp.com/biz/trinity-grill-and-bar-hyattsville?hrid=6CS2-Fh96tcaLX2v-R8pEQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'BNiRCjUD3-Z83X-EOwdSPg',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/8c7CWBkCAD9jYQCQ0ibOCQ/o.jpg',
+                               'name': 'Joseph W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=BNiRCjUD3-Z83X-EOwdSPg'}}],
+   'total': 117}
+In reviews
+Querying https://api.yelp.com/v3/businesses/i2iiKPfWjBAS3bN_pzpQtg/reviews ...
+Business Id: i2iiKPfWjBAS3bN_pzpQtg
+Business Name: El Quetzal
+{  'possible_languages': ['en', 'es'],
+   'reviews': [  {  'id': '7Xw2losi19DN1ZMTEyn1zQ',
+                    'rating': 3,
+                    'text': 'I have driven by this place many times and was '
+                            'always curious to try. Not too many Guatemalan '
+                            'restaurants in an area where Surprisingly there '
+                            'is big...',
+                    'time_created': '2018-10-10 19:06:53',
+                    'url': 'https://www.yelp.com/biz/el-quetzal-beltsville-2?hrid=7Xw2losi19DN1ZMTEyn1zQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'JJUs1XE5yuwKyX3c8q9vAQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/XgSq67sd78fyilZhbeUbJg/o.jpg',
+                               'name': 'Steve E.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=JJUs1XE5yuwKyX3c8q9vAQ'}},
+                 {  'id': 'U4jWIuaXG0PJo3gegyzYiQ',
+                    'rating': 4,
+                    'text': 'El Quetzal is the national bird of Guatemala and '
+                            'also the name of a couple of restaurants in a '
+                            'pretty diverse, P.G. County.  The main dishes '
+                            'served up are,...',
+                    'time_created': '2018-07-27 08:06:12',
+                    'url': 'https://www.yelp.com/biz/el-quetzal-beltsville-2?hrid=U4jWIuaXG0PJo3gegyzYiQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'JLJVuIsuOW_qTK1nKXRSkQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/naCo52X1kADsbfpNArerxA/o.jpg',
+                               'name': 'Wilson B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=JLJVuIsuOW_qTK1nKXRSkQ'}},
+                 {  'id': '_6vpzQW-plvVH10x2Eo-9Q',
+                    'rating': 5,
+                    'text': 'OMG - so fresh, so good!  We landed here by '
+                            'chance after doing some shopping (not anywhere '
+                            'near we live in Baltimore) - lucky us.  My '
+                            'husband had the Carne...',
+                    'time_created': '2018-07-06 17:05:39',
+                    'url': 'https://www.yelp.com/biz/el-quetzal-beltsville-2?hrid=_6vpzQW-plvVH10x2Eo-9Q&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'EDgzpUYXXWJZEHgbUHrGww',
+                               'image_url': None,
+                               'name': 'Lucy R.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=EDgzpUYXXWJZEHgbUHrGww'}}],
+   'total': 21}
+In reviews
+Querying https://api.yelp.com/v3/businesses/sSYjYvETob3JKqTt0TL93g/reviews ...
+Business Id: sSYjYvETob3JKqTt0TL93g
+Business Name: Mamma Lucia Pizza & Pasta
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'oSKZBiZT7H-uQXOtZrOM_g',
+                    'rating': 4,
+                    'text': "Close to my Bro's house so we've gotten take out "
+                            "more than a few times. I don't get the 3 star "
+                            "average as it's always been tasty. Prices are "
+                            'kinda high...',
+                    'time_created': '2018-08-20 15:02:13',
+                    'url': 'https://www.yelp.com/biz/mamma-lucia-pizza-and-pasta-college-park?hrid=oSKZBiZT7H-uQXOtZrOM_g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '6IsVybwkd4CrpaIhutkpFQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/4C4b4aGrrSkwDU9ZpkmvJA/o.jpg',
+                               'name': 'Julienne G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=6IsVybwkd4CrpaIhutkpFQ'}},
+                 {  'id': 'd1JJ1hM72Bh3nktGq0LcrA',
+                    'rating': 1,
+                    'text': 'Been going to this place for quite a while now '
+                            'and usually enjoyed it. But, for the past 6-8 '
+                            'months things have been a mess.\n'
+                            'Today, for the third time, my...',
+                    'time_created': '2018-08-03 10:58:34',
+                    'url': 'https://www.yelp.com/biz/mamma-lucia-pizza-and-pasta-college-park?hrid=d1JJ1hM72Bh3nktGq0LcrA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'GLgNtOcCUF_D-W8WNbyz-A',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/MZfGH7-hRN-5o2mrS6Unkg/o.jpg',
+                               'name': 'Joe P.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=GLgNtOcCUF_D-W8WNbyz-A'}},
+                 {  'id': 'OQOGRIAmy4r1vV0iqGyYLQ',
+                    'rating': 4,
+                    'text': 'We had pizza and wings delivered to the cherry '
+                            'hill RV Park campground through GrubHub and both '
+                            'were good. The wings (we ordered hot) could have '
+                            'been...',
+                    'time_created': '2018-08-16 16:04:03',
+                    'url': 'https://www.yelp.com/biz/mamma-lucia-pizza-and-pasta-college-park?hrid=OQOGRIAmy4r1vV0iqGyYLQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'VX6WS4OJbtTpidRBddhx_w',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/B_kSQe3A2GZP3D-HVgI2iw/o.jpg',
+                               'name': 'Is S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=VX6WS4OJbtTpidRBddhx_w'}}],
+   'total': 163}
+In reviews
+Querying https://api.yelp.com/v3/businesses/lo7auRgPVfN3hsiwkK8sLg/reviews ...
+Business Id: lo7auRgPVfN3hsiwkK8sLg
+Business Name: Tacos Tortas & Tequila
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'Jn0TxXJDl7VTh-bjoNWpMQ',
+                    'rating': 5,
+                    'text': 'What an amazing, fun place!\n'
+                            '\n'
+                            'I eat here frequently, because: \n'
+                            '\n'
+                            "1). \xa0It's convenient (right across from the "
+                            'Silver Spring Metro station); \xa0\n'
+                            '\n'
+                            '2). The food is...',
+                    'time_created': '2018-10-31 05:08:49',
+                    'url': 'https://www.yelp.com/biz/tacos-tortas-and-tequila-silver-spring?hrid=Jn0TxXJDl7VTh-bjoNWpMQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'W6Xtou-ugeJGZNZn3jB2tQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/XUQloj0dgJ9gvCFQ3mpvCA/o.jpg',
+                               'name': 'Steve S.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=W6Xtou-ugeJGZNZn3jB2tQ'}},
+                 {  'id': '8LR0C05lNzD769jFGFBy7g',
+                    'rating': 4,
+                    'text': 'Tacos and Tequila! We will have to return for the '
+                            'Tortas! We had a lovely evening trying the tacos '
+                            'and cocktails. We both loved the fish tacos! '
+                            'The...',
+                    'time_created': '2018-11-13 18:33:00',
+                    'url': 'https://www.yelp.com/biz/tacos-tortas-and-tequila-silver-spring?hrid=8LR0C05lNzD769jFGFBy7g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Ak4jMUB5Ry8aSBUVtXM10Q',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/Ixx8lCAhXMAEZ97DVeeOIA/o.jpg',
+                               'name': 'Kelly T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Ak4jMUB5Ry8aSBUVtXM10Q'}},
+                 {  'id': 'g17URsW6dNEfxUN4ceUa2A',
+                    'rating': 2,
+                    'text': 'TTT is a nifty abbreviation for a restaurant.\n'
+                            'I visited this establishment in a growing effort '
+                            'to try new places in and around Silver Spring. As '
+                            'a former...',
+                    'time_created': '2018-10-29 09:21:35',
+                    'url': 'https://www.yelp.com/biz/tacos-tortas-and-tequila-silver-spring?hrid=g17URsW6dNEfxUN4ceUa2A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'sKlP6fhPvKghTObYyiyhOg',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/JFAaoCYw9KD-AYwjMxNMbw/o.jpg',
+                               'name': 'Gary C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=sKlP6fhPvKghTObYyiyhOg'}}],
+   'total': 176}
+In reviews
+Querying https://api.yelp.com/v3/businesses/L-1z53wpScqgwt-zY3eQLQ/reviews ...
+Business Id: L-1z53wpScqgwt-zY3eQLQ
+Business Name: Jumbo Jumbo Cafe
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'gsI3xc5VL3YGTsoAsWhXpA',
+                    'rating': 4,
+                    'text': 'Great Taiwanfood at an amazing price!\n'
+                            '\n'
+                            'My recommendation is the shrimp eggs cucumber and '
+                            'squid noodles.',
+                    'time_created': '2018-08-12 21:49:08',
+                    'url': 'https://www.yelp.com/biz/jumbo-jumbo-cafe-college-park-2?hrid=gsI3xc5VL3YGTsoAsWhXpA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MrmZEN4sV5WZEw_d0OMjeg',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/PXWQNB1GqfDj9eUiQOlXLA/o.jpg',
+                               'name': 'Ruofei D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MrmZEN4sV5WZEw_d0OMjeg'}},
+                 {  'id': '3h5SjVWg4h6JMRdEK3HkPg',
+                    'rating': 4,
+                    'text': 'I book marked this spot during a boba binge. '
+                            "Aside from being bobaed out, I don't want to "
+                            'recycle my own boba straws and keep them on my '
+                            'person. I need an...',
+                    'time_created': '2018-06-17 19:09:48',
+                    'url': 'https://www.yelp.com/biz/jumbo-jumbo-cafe-college-park-2?hrid=3h5SjVWg4h6JMRdEK3HkPg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'JLJVuIsuOW_qTK1nKXRSkQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/naCo52X1kADsbfpNArerxA/o.jpg',
+                               'name': 'Wilson B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=JLJVuIsuOW_qTK1nKXRSkQ'}},
+                 {  'id': 'izwnNBanWWXfPCNTd3ky4A',
+                    'rating': 3,
+                    'text': '3.5 stars. I had the Taiwanese lo mein. It was '
+                            'okay, I had to add a bunch of duck sauce and soy '
+                            "sauce to get more flavor out of it. Maybe I'll "
+                            'try other...',
+                    'time_created': '2018-11-19 22:36:45',
+                    'url': 'https://www.yelp.com/biz/jumbo-jumbo-cafe-college-park-2?hrid=izwnNBanWWXfPCNTd3ky4A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'WtDcl5dVw0qLdWmK__PPPw',
+                               'image_url': None,
+                               'name': 'Sal H.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=WtDcl5dVw0qLdWmK__PPPw'}}],
+   'total': 64}
+In reviews
+Querying https://api.yelp.com/v3/businesses/wZlxI1Psmg31JlPRVEmXiQ/reviews ...
+Business Id: wZlxI1Psmg31JlPRVEmXiQ
+Business Name: NuVegan Café
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'D-VNGALWBR5xIlgC9VEhyQ',
+                    'rating': 4,
+                    'text': "So, I've always heard so much about NuVegan, and "
+                            "I finally had time to give them a try. I'm not a "
+                            'vegan expert by any means--so take with that what '
+                            'you may....',
+                    'time_created': '2018-10-22 14:30:01',
+                    'url': 'https://www.yelp.com/biz/nuvegan-caf%C3%A9-college-park?hrid=D-VNGALWBR5xIlgC9VEhyQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'a_DzZ8Wtwn7sFhMb7yxLFA',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/Udq0SUD5REMap9O3GdJDGw/o.jpg',
+                               'name': 'Brenda A.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=a_DzZ8Wtwn7sFhMb7yxLFA'}},
+                 {  'id': 'pStfVl4OqBBEZ8fykCWsZQ',
+                    'rating': 5,
+                    'text': "I was going to compare this to a Luby's but vegan "
+                            "style, and then I realized Luby's only exist in "
+                            'Texas.  So for those of you not from Texas, this '
+                            'NuVegan...',
+                    'time_created': '2018-10-03 18:16:58',
+                    'url': 'https://www.yelp.com/biz/nuvegan-caf%C3%A9-college-park?hrid=pStfVl4OqBBEZ8fykCWsZQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'vQAM8ZNOl9mzScxdwSd1DA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/SjtMMO9bTy0zSmRWoErTYA/o.jpg',
+                               'name': 'Brent L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=vQAM8ZNOl9mzScxdwSd1DA'}},
+                 {  'id': 'APH1cydNgH5CjbWR5RU1wA',
+                    'rating': 5,
+                    'text': "Every time I go somewhere in the area that isn't "
+                            'this place I regret it.\n'
+                            '\n'
+                            "This is the best food you'll ever have, anywhere. "
+                            "It doesn't even matter what you...",
+                    'time_created': '2018-09-21 18:25:00',
+                    'url': 'https://www.yelp.com/biz/nuvegan-caf%C3%A9-college-park?hrid=APH1cydNgH5CjbWR5RU1wA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'cyXvfS1h3wxhwqSfF_rssQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/wHAE4aH3cmxQTPuOYB_0DQ/o.jpg',
+                               'name': 'Dante E.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=cyXvfS1h3wxhwqSfF_rssQ'}}],
+   'total': 321}
+In reviews
+Querying https://api.yelp.com/v3/businesses/KKkqXfQ1oIkxHKyPDJsU3Q/reviews ...
+Business Id: KKkqXfQ1oIkxHKyPDJsU3Q
+Business Name: The Common
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'R41umpA5iPLfgLNVtJYaXw',
+                    'rating': 4,
+                    'text': 'The restaurant is vast and stylish located inside '
+                            'the Marriott hotel. We were seated promptly '
+                            'during lunch, not a lot of people were there that '
+                            'day. The...',
+                    'time_created': '2018-10-15 09:40:27',
+                    'url': 'https://www.yelp.com/biz/the-common-hyattsville?hrid=R41umpA5iPLfgLNVtJYaXw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'TjUeo6ds0ysKFTp-rbryfw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/vFet9aeoHC-BRjI_P0x4IQ/o.jpg',
+                               'name': 'Katherine B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=TjUeo6ds0ysKFTp-rbryfw'}},
+                 {  'id': 'kimnlRnujNbMhYvbFGoF3A',
+                    'rating': 2,
+                    'text': 'Warning... make sure you have ample time to eat '
+                            'here because this is some of the worst slowest '
+                            'service in history. They are in vacation mode in '
+                            'here I...',
+                    'time_created': '2018-10-24 14:05:07',
+                    'url': 'https://www.yelp.com/biz/the-common-hyattsville?hrid=kimnlRnujNbMhYvbFGoF3A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'fExL6u06xTSg13k945IPAQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/QoKqkelMGl3IsFOnIsAJEg/o.jpg',
+                               'name': 'Nicholas G.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=fExL6u06xTSg13k945IPAQ'}},
+                 {  'id': 'sqFo9T8hR4aWnyUDqFphWQ',
+                    'rating': 2,
+                    'text': 'The restaurant itself is designed/decorated quite '
+                            'well. But...\n'
+                            '\n'
+                            'Just dropped in for a meeting and grabbed lunch '
+                            "to-go. I didn't check it before I left...",
+                    'time_created': '2018-10-16 10:51:51',
+                    'url': 'https://www.yelp.com/biz/the-common-hyattsville?hrid=sqFo9T8hR4aWnyUDqFphWQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'YC723M2XmiIzMrRsnUkWuQ',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/Dcogc1dSTXB7UNwMBfnqIg/o.jpg',
+                               'name': 'Shae J.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=YC723M2XmiIzMrRsnUkWuQ'}}],
+   'total': 42}
+In reviews
+Querying https://api.yelp.com/v3/businesses/7Rias6Np7FHE-MnTlEDOmg/reviews ...
+Business Id: 7Rias6Np7FHE-MnTlEDOmg
+Business Name: Trattoria Da Lina
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'bnypMl5IoTgiXZkBXw908A',
+                    'rating': 5,
+                    'text': "My wife's cousin, who lives in the neighborhood, "
+                            'invited us to Trattoria da Lina as a good, '
+                            'comfortable place to eat on a Thursday evening.  '
+                            'I  must say...',
+                    'time_created': '2018-08-15 10:54:12',
+                    'url': 'https://www.yelp.com/biz/trattoria-da-lina-takoma-park?hrid=bnypMl5IoTgiXZkBXw908A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'C-xIeg65giF134BuQoGGFA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/ZF9A_4h9ZHhTRrrqF5Ho2Q/o.jpg',
+                               'name': 'Kevin P.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=C-xIeg65giF134BuQoGGFA'}},
+                 {  'id': 'jREkkeCISDPgv0Q2arWmJg',
+                    'rating': 3,
+                    'text': 'Tried this place first time.  Nice place, no '
+                            'table cloths, paper napkins, medium qualty. '
+                            'Hostess would not seat us at a 4 top sat us at a '
+                            'small 2 top....',
+                    'time_created': '2018-11-11 16:46:23',
+                    'url': 'https://www.yelp.com/biz/trattoria-da-lina-takoma-park?hrid=jREkkeCISDPgv0Q2arWmJg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'KgTVIi41Jhq47lslejYfEg',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/tlvOb3C-Zs8yHpcoqdrTWw/o.jpg',
+                               'name': 'Donald P.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=KgTVIi41Jhq47lslejYfEg'}},
+                 {  'id': '7_oUhOA1qNJrMVb_FTkzTg',
+                    'rating': 5,
+                    'text': 'Delicious!!! Had meant to try this place for a '
+                            "few months but for some reason didn't get there "
+                            'until yesterday.  And we are glad we did.  The '
+                            'Calimari and...',
+                    'time_created': '2018-06-16 17:10:38',
+                    'url': 'https://www.yelp.com/biz/trattoria-da-lina-takoma-park?hrid=7_oUhOA1qNJrMVb_FTkzTg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'bX0At0o7DifS-semRF0tLg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/tZnByRAH0_wziiI1OH20vQ/o.jpg',
+                               'name': 'L M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=bX0At0o7DifS-semRF0tLg'}}],
+   'total': 141}
+In reviews
+Querying https://api.yelp.com/v3/businesses/UcbggUjIGBNBK55TMtObLg/reviews ...
+Business Id: UcbggUjIGBNBK55TMtObLg
+Business Name: Silver Diner
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': '_82E3W_UleosFND83RWUyQ',
+                    'rating': 5,
+                    'text': 'My first time at the Silver Diner. I took my '
+                            'grandmother for lunch since we were in the area '
+                            'and both of us have never been to a Silver '
+                            'Diner.\n'
+                            'The food is...',
+                    'time_created': '2018-11-17 10:51:03',
+                    'url': 'https://www.yelp.com/biz/silver-diner-greenbelt?hrid=_82E3W_UleosFND83RWUyQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'aAkf9h2t_ThyIDplmYf9yA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/HguPpP6u_-nrtVeGIt-IBA/o.jpg',
+                               'name': 'Zender C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=aAkf9h2t_ThyIDplmYf9yA'}},
+                 {  'id': 'sRe5Y7QpDtQiWqKJOzmPNQ',
+                    'rating': 4,
+                    'text': 'This will be a very brief review on the Nutella '
+                            "Banana Milkshake. I came here for that only. It's "
+                            'been a favorite of mine for a few years, I never '
+                            'seem to...',
+                    'time_created': '2018-10-24 17:39:10',
+                    'url': 'https://www.yelp.com/biz/silver-diner-greenbelt?hrid=sRe5Y7QpDtQiWqKJOzmPNQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '05MpsTohoxyAOOQY7SmGDw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/LmxJWPgijh3Nxw_wom_dsA/o.jpg',
+                               'name': 'Unique C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=05MpsTohoxyAOOQY7SmGDw'}},
+                 {  'id': 'k3z5EIjeaQ2TgGR3Em6u1g',
+                    'rating': 3,
+                    'text': "I've come here with my dad for breakfast a few "
+                            'times and we always have a good time. The staff '
+                            'is friendly and the kitchen is fast at churning '
+                            'out hot food....',
+                    'time_created': '2018-10-20 13:16:38',
+                    'url': 'https://www.yelp.com/biz/silver-diner-greenbelt?hrid=k3z5EIjeaQ2TgGR3Em6u1g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'GlAzSEidpus-o5l0xpz_HQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/PxhbRmquMOz17-x4NLmYkQ/o.jpg',
+                               'name': 'Nikki P.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=GlAzSEidpus-o5l0xpz_HQ'}}],
+   'total': 322}
+In reviews
+Querying https://api.yelp.com/v3/businesses/Wu7wEakuGfBWsrNmFZ1KdA/reviews ...
+Business Id: Wu7wEakuGfBWsrNmFZ1KdA
+Business Name: Looney's Pub
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'YmuMQsto0E0V3ZTj7Fq1_g',
+                    'rating': 4,
+                    'text': 'I wandered into this place not really knowing '
+                            "what to expect.  It's full of college kids, but "
+                            "they weren't rowdy college kids.  They were just "
+                            'college kids...',
+                    'time_created': '2018-10-06 19:47:26',
+                    'url': 'https://www.yelp.com/biz/looneys-pub-college-park?hrid=YmuMQsto0E0V3ZTj7Fq1_g&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'vQAM8ZNOl9mzScxdwSd1DA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/SjtMMO9bTy0zSmRWoErTYA/o.jpg',
+                               'name': 'Brent L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=vQAM8ZNOl9mzScxdwSd1DA'}},
+                 {  'id': 'usSVoEvN473EHkpCvltmpQ',
+                    'rating': 4,
+                    'text': "Been coming here for years! It's a typical "
+                            '"college bar" right at UMD ! Lots of students '
+                            'usually ! However I feel totally comfy coming '
+                            'here! Sometimes...',
+                    'time_created': '2018-08-16 15:01:08',
+                    'url': 'https://www.yelp.com/biz/looneys-pub-college-park?hrid=usSVoEvN473EHkpCvltmpQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'VT5uzVCpYntUzKfsHlNQdw',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/jJKCfDy4bLJjgPhTVml-3A/o.jpg',
+                               'name': 'Chris D.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=VT5uzVCpYntUzKfsHlNQdw'}},
+                 {  'id': '4MOgCapa4kQxnP2zX-mX3Q',
+                    'rating': 3,
+                    'text': "I had been to the Looney's Pub up in Fulton and "
+                            'it was nothing like this place.\n'
+                            '\n'
+                            'This is near the U of MD campus so it has tons of '
+                            'Terp memorabilia hung all...',
+                    'time_created': '2018-06-18 12:18:36',
+                    'url': 'https://www.yelp.com/biz/looneys-pub-college-park?hrid=4MOgCapa4kQxnP2zX-mX3Q&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '1x9vTxnB3A0zfCKV46eVdA',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/hzSJRtmRGPFtPBk9Zzm4cg/o.jpg',
+                               'name': 'Ken M.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=1x9vTxnB3A0zfCKV46eVdA'}}],
+   'total': 217}
+In reviews
+Querying https://api.yelp.com/v3/businesses/0VQT_1QvGajQw30yD9A_vQ/reviews ...
+Business Id: 0VQT_1QvGajQw30yD9A_vQ
+Business Name: Azteca Restaurant-Cantina
+{  'possible_languages': ['en', 'es'],
+   'reviews': [  {  'id': 'w4-D72DMXg8ju8vAnNlq1A',
+                    'rating': 4,
+                    'text': 'As much as I used to fly down this street, I have '
+                            'never seen this place. However, today me an my '
+                            'friends paid them a visit. It does appear '
+                            'suddenly off of...',
+                    'time_created': '2018-07-19 12:41:42',
+                    'url': 'https://www.yelp.com/biz/azteca-restaurant-cantina-college-park?hrid=w4-D72DMXg8ju8vAnNlq1A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'JF7822rRBbTkf8DxpxuMlw',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/vYNvLmpvtvgK7AmOXYb3sw/o.jpg',
+                               'name': 'Cindy W.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=JF7822rRBbTkf8DxpxuMlw'}},
+                 {  'id': 'qMftvhXjvnJDGxHXsky1pA',
+                    'rating': 4,
+                    'text': 'Last minute drive for a quick meal. Not '
+                            'disappointed. Had the seafood enchiladas...loaded '
+                            'with scallops and shrimp, with guacamole, sour '
+                            'cream and pico de...',
+                    'time_created': '2018-10-18 15:47:59',
+                    'url': 'https://www.yelp.com/biz/azteca-restaurant-cantina-college-park?hrid=qMftvhXjvnJDGxHXsky1pA&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'MmQqdbAPFcRMPWfKG90dPQ',
+                               'image_url': 'https://s3-media3.fl.yelpcdn.com/photo/Vt2qp1CV3_JTl6CLKPsk4Q/o.jpg',
+                               'name': 'Lucy C.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=MmQqdbAPFcRMPWfKG90dPQ'}},
+                 {  'id': 'BoVbcxaFzTC56UHujfX2EQ',
+                    'rating': 1,
+                    'text': "Wastes my time ! Came here for Monday's nigh "
+                            "fajita night at 9pm and they're closed !!! "
+                            "They're suppose to be open till 11 whew Chile the "
+                            'ghetto\n'
+                            '\n'
+                            '\n'
+                            '\n'
+                            'Replying...',
+                    'time_created': '2018-10-29 18:33:56',
+                    'url': 'https://www.yelp.com/biz/azteca-restaurant-cantina-college-park?hrid=BoVbcxaFzTC56UHujfX2EQ&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'Seb0NoeuoUlSPdrHilVQ3Q',
+                               'image_url': None,
+                               'name': 'Tantric T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=Seb0NoeuoUlSPdrHilVQ3Q'}}],
+   'total': 242}
+In reviews
+Querying https://api.yelp.com/v3/businesses/8EC62cW5_kfdsO8ERssUMQ/reviews ...
+Business Id: 8EC62cW5_kfdsO8ERssUMQ
+Business Name: sweetgreen
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'zQgsqv3sBJg2kGNie499zg',
+                    'rating': 5,
+                    'text': 'My friend suggested we meet here for lunch since '
+                            'I was trying out keto. This place.... a must '
+                            'try!  The salads are amazing and VERY filling!  I '
+                            'love how you...',
+                    'time_created': '2018-09-19 06:13:16',
+                    'url': 'https://www.yelp.com/biz/sweetgreen-college-park?hrid=zQgsqv3sBJg2kGNie499zg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'TjUeo6ds0ysKFTp-rbryfw',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/vFet9aeoHC-BRjI_P0x4IQ/o.jpg',
+                               'name': 'Katherine B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=TjUeo6ds0ysKFTp-rbryfw'}},
+                 {  'id': 'GpChThAW2c_FqSVZtz2L6A',
+                    'rating': 1,
+                    'text': "I've eaten at this location 3 times and out of "
+                            "the 3 times I've gotten sick twice. The first "
+                            'time I got sick I gave them the benefit of the '
+                            'doubt and told...',
+                    'time_created': '2018-02-12 11:20:19',
+                    'url': 'https://www.yelp.com/biz/sweetgreen-college-park?hrid=GpChThAW2c_FqSVZtz2L6A&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'bs9p16R7UTGu2lbE6ggo9A',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/ygboVq83FE_61bDYX7QY_w/o.jpg',
+                               'name': 'Rachel N.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=bs9p16R7UTGu2lbE6ggo9A'}},
+                 {  'id': 'ymyE5FHpfLuHlhehaRnqbg',
+                    'rating': 3,
+                    'text': 'One of my to go spots in the College Park area '
+                            'for a fast, filling, and healthy meal! However, I '
+                            'have several complaints: 1) parking is a little '
+                            'rough...',
+                    'time_created': '2018-03-12 22:47:07',
+                    'url': 'https://www.yelp.com/biz/sweetgreen-college-park?hrid=ymyE5FHpfLuHlhehaRnqbg&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'uOhDgcVNzxzxgH25rWzobA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/jNa6pvNn-XsOv_Rl-zF-vQ/o.jpg',
+                               'name': 'Priscilla T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=uOhDgcVNzxzxgH25rWzobA'}}],
+   'total': 84}
+In reviews
+Querying https://api.yelp.com/v3/businesses/wywdThfcwgMcuWe0EgyD8A/reviews ...
+Business Id: wywdThfcwgMcuWe0EgyD8A
+Business Name: Myong Dong
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'x6thcyAArdltqJyvc8uXAw',
+                    'rating': 4,
+                    'text': 'Myong Dong is my go to Korean restaurant on days '
+                            "when I'm dining alone. The food is good enough to "
+                            'share, but this is one of the few places near me '
+                            'that...',
+                    'time_created': '2018-09-02 20:53:23',
+                    'url': 'https://www.yelp.com/biz/myong-dong-beltsville?hrid=x6thcyAArdltqJyvc8uXAw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'dyEc-BsP_qPzIWyiMW0BPw',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/hvC4PZ6haDA3zU35kumAGg/o.jpg',
+                               'name': 'Quijana B.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=dyEc-BsP_qPzIWyiMW0BPw'}},
+                 {  'id': 'LIFy1rU8nStpgvH096p4_Q',
+                    'rating': 4,
+                    'text': "I've passed by this area so many times and I've "
+                            'never even noticed this quaint establishment! I '
+                            'had a little bit of trouble finding the '
+                            "restaurant but it's...",
+                    'time_created': '2018-07-09 19:56:58',
+                    'url': 'https://www.yelp.com/biz/myong-dong-beltsville?hrid=LIFy1rU8nStpgvH096p4_Q&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'uOhDgcVNzxzxgH25rWzobA',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/jNa6pvNn-XsOv_Rl-zF-vQ/o.jpg',
+                               'name': 'Priscilla T.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=uOhDgcVNzxzxgH25rWzobA'}},
+                 {  'id': '_0ZDBdZRgkBpOpEYcyXGrw',
+                    'rating': 4,
+                    'text': 'This place has lost some consistency as the cooks '
+                            'and waitstaff seem to vary every time I eat here, '
+                            'as does the color and flavor of their '
+                            'signature...',
+                    'time_created': '2018-06-30 22:54:32',
+                    'url': 'https://www.yelp.com/biz/myong-dong-beltsville?hrid=_0ZDBdZRgkBpOpEYcyXGrw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'W1AFbtC37Q1RzdrKS51NmQ',
+                               'image_url': 'https://s3-media1.fl.yelpcdn.com/photo/-Vk74woYJxmHPT0_cw7Lig/o.jpg',
+                               'name': 'Bobby Y.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=W1AFbtC37Q1RzdrKS51NmQ'}}],
+   'total': 118}
+In reviews
+Querying https://api.yelp.com/v3/businesses/GVLr1g3V5B2FL5gBf9Hu5w/reviews ...
+Business Id: GVLr1g3V5B2FL5gBf9Hu5w
+Business Name: Mid-Atlantic Seafood Restaurant
+{  'possible_languages': ['en'],
+   'reviews': [  {  'id': 'ngYAhQzkbXq0I1pVgwaQuw',
+                    'rating': 5,
+                    'text': 'Not from Maryland disclaimer.\n'
+                            '\n'
+                            'So eating here made me realize that every other '
+                            "crab cake I've ever had in my life was a bold "
+                            'faced LIE. The crab cake I had...',
+                    'time_created': '2018-11-03 17:01:52',
+                    'url': 'https://www.yelp.com/biz/mid-atlantic-seafood-restaurant-laurel?hrid=ngYAhQzkbXq0I1pVgwaQuw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': '8QoOb0HVnju3UorkOwCHhA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/-xC82yAHU26JlIw1EwoUGg/o.jpg',
+                               'name': 'Roger L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=8QoOb0HVnju3UorkOwCHhA'}},
+                 {  'id': 'pU9Oqf_rEumCVunXaTjMXw',
+                    'rating': 4,
+                    'text': 'I came here initially for an Elite Yelp event. '
+                            'THe event started at 12 pm. I unfortunately did '
+                            'not realize it was not a drop in between the '
+                            'given time so...',
+                    'time_created': '2018-10-29 13:53:24',
+                    'url': 'https://www.yelp.com/biz/mid-atlantic-seafood-restaurant-laurel?hrid=pU9Oqf_rEumCVunXaTjMXw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'FpQNJsaymjuGTKUp39jQEA',
+                               'image_url': 'https://s3-media4.fl.yelpcdn.com/photo/xgM21fv_VT-hN1hfDY7dww/o.jpg',
+                               'name': 'Jason L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=FpQNJsaymjuGTKUp39jQEA'}},
+                 {  'id': 'xRUIEQovmnaELaHxcsVxUw',
+                    'rating': 5,
+                    'text': 'Mid-Atlantic Seafood Restaurant is a local chain, '
+                            'fast casual seafood restaurant that has over a '
+                            'dozen restaurant in the area and has been around '
+                            'for over a...',
+                    'time_created': '2018-10-12 21:59:50',
+                    'url': 'https://www.yelp.com/biz/mid-atlantic-seafood-restaurant-laurel?hrid=xRUIEQovmnaELaHxcsVxUw&adjust_creative=Cq2W4EM_o2tKsQxwIjDZwQ&utm_campaign=yelp_api_v3&utm_medium=api_v3_business_reviews&utm_source=Cq2W4EM_o2tKsQxwIjDZwQ',
+                    'user': {  'id': 'EiT_pSuIb08oRn4CfwfMJg',
+                               'image_url': 'https://s3-media2.fl.yelpcdn.com/photo/ixIw-6BdFs0xuHMUdThRng/o.jpg',
+                               'name': 'Samantha L.',
+                               'profile_url': 'https://www.yelp.com/user_details?userid=EiT_pSuIb08oRn4CfwfMJg'}}],
+   'total': 411}
